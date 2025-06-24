@@ -1,0 +1,12 @@
+Mod Name: Large Buildings for trading posts
+Mod Updated by: Redmas
+Mod Original Author: Redmas
+Mod Creation date: 2022
+Mod Demo :
+https://youtu.be/WdcmTggEk48
+
+Description :
+- Adds large buildings behind the tradingposts
+
+Files used :
+MODELS\PLANETS\BIOMES\COMMON\BUILDINGS\TRADINGPOST\*

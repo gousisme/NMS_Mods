@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.57.0.1)-->
+<Data template="cGcSpawnDensityList">
+	<Property name="DensityList">
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="BIGHAZCROP" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="1086.000000" />
+			<Property name="RegionScale" value="0.200000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="BIGFUELCROP" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="1085.000000" />
+			<Property name="RegionScale" value="0.200000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="RARE1" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="1090.000000" />
+			<Property name="RegionScale" value="0.200000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="RARE2" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="1210.000000" />
+			<Property name="RegionScale" value="0.200000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="RARE3" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="1250.000000" />
+			<Property name="RegionScale" value="0.200000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="VALUABLE_STUFF" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="450.000000" />
+			<Property name="RegionScale" value="2.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="WORDSTONE" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="400.000000" />
+			<Property name="RegionScale" value="2.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="CRATES" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="220.000000" />
+			<Property name="RegionScale" value="2.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="DEBRIS" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="245.000000" />
+			<Property name="RegionScale" value="2.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="FUELCRYSTAL" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="280.000000" />
+			<Property name="RegionScale" value="40.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="UNDERGROUND" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="300.000000" />
+			<Property name="RegionScale" value="2.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="CAVEGRASSCLUMP" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="8.000000" />
+			<Property name="RegionScale" value="10.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="CAVEROCKCLUMP" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="12.000000" />
+			<Property name="RegionScale" value="10.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="GRASS" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="Total" />
+			<Property name="PatchSize" value="200.000000" />
+			<Property name="RegionScale" value="10.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="FOREST" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="124.000000" />
+			<Property name="RegionScale" value="12.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="SPARSECLUMP" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="60.000000" />
+			<Property name="RegionScale" value="10.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="ROCKCLUMP" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="45.000000" />
+			<Property name="RegionScale" value="10.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="GRASSCLUMP" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="40.000000" />
+			<Property name="RegionScale" value="10.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="BARRENROCKCLUMP" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="50.000000" />
+			<Property name="RegionScale" value="16.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="BARRENGRASSCLUM" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="10.000000" />
+			<Property name="RegionScale" value="30.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="CRYSTAL" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="220.000000" />
+			<Property name="RegionScale" value="0.200000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="CRYSTAL2" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="200.000000" />
+			<Property name="RegionScale" value="0.200000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="CRYSTAL3" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="500.000000" />
+			<Property name="RegionScale" value="0.400000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="RESOURCE" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="30.000000" />
+			<Property name="RegionScale" value="2.400000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="SMALLCLUMP" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="16.000000" />
+			<Property name="RegionScale" value="4.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="FLORACLUMP" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="10.000000" />
+			<Property name="RegionScale" value="10.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="BLANKETCLUMP" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="6.000000" />
+			<Property name="RegionScale" value="4.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="RESCLUMPFUEL" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="202.000000" />
+			<Property name="RegionScale" value="0.400000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="RESCLUMPCOM" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="125.000000" />
+			<Property name="RegionScale" value="0.600000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="RESCLUMPTECH" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="200.000000" />
+			<Property name="RegionScale" value="0.600000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="BIOMEPLANT" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="1050.000000" />
+			<Property name="RegionScale" value="0.400000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="RARE" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="200.000000" />
+			<Property name="RegionScale" value="1.550000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="CRYSTALCAVE" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="188.000000" />
+			<Property name="RegionScale" value="1.200000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="RARECAVE" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="140.000000" />
+			<Property name="RegionScale" value="1.200000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="JAMESPATCH" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="4.000000" />
+			<Property name="RegionScale" value="80.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="STORMCRYST" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="440.000000" />
+			<Property name="RegionScale" value="2.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="RARE_BONES" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="765.000000" />
+			<Property name="RegionScale" value="0.142000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="SCRAPHEAP" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="285.000000" />
+			<Property name="RegionScale" value="1.040000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="WILDPLANTS" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="220.000000" />
+			<Property name="RegionScale" value="1.200000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="SENTINEL_RARE1" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="420.000000" />
+			<Property name="RegionScale" value="2.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="SENTINEL_RARE2" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="620.000000" />
+			<Property name="RegionScale" value="2.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="SENTINEL_RARE3" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="GridPatch" />
+			<Property name="PatchSize" value="1045.000000" />
+			<Property name="RegionScale" value="2.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="LEVILARGEPATCH" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="16.000000" />
+			<Property name="RegionScale" value="32.000000" />
+		</Property>
+		<Property name="DensityList" value="GcSpawnDensity">
+			<Property name="Name" value="JUNGLEGRASS" />
+			<Property name="Active" value="true" />
+			<Property name="CoverageType" value="SmoothPatch" />
+			<Property name="PatchSize" value="40.000000" />
+			<Property name="RegionScale" value="10.000000" />
+		</Property>
+	</Property>
+</Data>

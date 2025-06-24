@@ -1,0 +1,21 @@
+Mod Name: Modded Pets
+Mod Updated by: Redmas
+Mod Original Author: Redmas
+Mod Creation date: 2019
+Mod Demo :
+https://youtu.be/GvCU2b5_GK0?si=lBETcvjph-K4Gwq0&t=295
+
+Description :
+- improve the riding :
+	-> better camera
+	-> faster speed
+	-> longer stamina
+	-> slower walk ( for realism - copy horse riding walk )
+	
+- improve pets :
+	-> better moves around the player
+	-> reduced all creatures timers, to realtime 2h ( instead of realtime 24h on vanilla )
+
+Files used :
+GCCAMERAGLOBALS.GLOBAL
+gccreatureglobals

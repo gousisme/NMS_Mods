@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.57.0.1)-->
+<Data template="cGcBiomeData">
+	<Property name="TextureFile" value="METADATA/SIMULATION/SOLARSYSTEM/TEXTURES/FROZEN.MBIN" />
+	<Property name="OverlayFile" value="METADATA/SIMULATION/SOLARSYSTEM/OVERLAYS/TEST.MBIN" />
+	<Property name="TileTypesFile" value="METADATA/SIMULATION/SOLARSYSTEM/COLOURS/BASETILETYPES.MBIN" />
+	<Property name="ColourPaletteFile" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/FROZEN/FROZENCOLOURPALETTES.MBIN" />
+	<Property name="LegacyColourPaletteFile" value="" />
+	<Property name="MiningSubstance1" value="GcMiningSubstanceData">
+		<Property name="SubstanceCategory" value="GcRealitySubstanceCategory">
+			<Property name="SubstanceCategory" value="Fuel" />
+		</Property>
+		<Property name="UseRarity" value="true" />
+		<Property name="Rarity" value="GcRarity">
+			<Property name="Rarity" value="Common" />
+		</Property>
+	</Property>
+	<Property name="MiningSubstance2" value="GcMiningSubstanceData">
+		<Property name="SubstanceCategory" value="GcRealitySubstanceCategory">
+			<Property name="SubstanceCategory" value="Fuel" />
+		</Property>
+		<Property name="UseRarity" value="true" />
+		<Property name="Rarity" value="GcRarity">
+			<Property name="Rarity" value="Common" />
+		</Property>
+	</Property>
+	<Property name="MiningSubstance3" value="GcMiningSubstanceData">
+		<Property name="SubstanceCategory" value="GcRealitySubstanceCategory">
+			<Property name="SubstanceCategory" value="Fuel" />
+		</Property>
+		<Property name="UseRarity" value="true" />
+		<Property name="Rarity" value="GcRarity">
+			<Property name="Rarity" value="Common" />
+		</Property>
+	</Property>
+	<Property name="FuelMultiplier" value="1.000000" />
+	<Property name="Water" value="GcPlanetWaterData">
+		<Property name="ColourIndex" value="0" />
+		<Property name="WaterEmission" value="GcWaterEmissionBehaviourType">
+			<Property name="WaterEmissionBehaviourType" value="None" />
+		</Property>
+		<Property name="FoamEmission" value="GcWaterEmissionBehaviourType">
+			<Property name="WaterEmissionBehaviourType" value="None" />
+		</Property>
+		<Property name="Murkyness" value="0.000000" />
+	</Property>
+	<Property name="ExternalObjectLists">
+		<Property name="ExternalObjectLists" value="GcExternalObjectListOptions">
+			<Property name="Name" value="MAIN" />
+			<Property name="ResourceHint" value="" />
+			<Property name="ResourceHintIcon" value="" />
+			<Property name="Probability" value="1.000000" />
+			<Property name="SeasonalProbabilityOverride" value="1.000000" />
+			<Property name="TileType" value="GcTerrainTileType">
+				<Property name="TileType" value="Base" />
+			</Property>
+			<Property name="AllowLimiting" value="true" />
+			<Property name="AddToFilenameHashmapWhenOptional" value="false" />
+			<Property name="ChooseUsingLifeLevel" value="false" />
+			<Property name="Options">
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/DEAD/FROZENDEADWEIRDOBJECTS.MBIN" />
+			</Property>
+			<Property name="Order" value="0" />
+			<Property name="SuppressSpawn" value="false" />
+		</Property>
+						<Property name="ExternalObjectLists" value="GcExternalObjectListOptions" _index="3">
+			<Property name="Name" value="BK_RARE" />
+			<Property name="ResourceHint" value="" />
+			<Property name="ResourceHintIcon" value="" />
+			<Property name="Probability" value="1.000000" />
+			<Property name="SeasonalProbabilityOverride" value="1.000000" />
+			<Property name="TileType" value="GcTerrainTileType">
+				<Property name="TileType" value="Base" />
+			</Property>
+			<Property name="AllowLimiting" value="false" />
+			<Property name="AddToFilenameHashmapWhenOptional" value="false" />
+			<Property name="ChooseUsingLifeLevel" value="false" />
+			<Property name="Options">
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ1.MBIN" _index="0" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ2.MBIN" _index="1" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ3.MBIN" _index="2" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ4.MBIN" _index="3" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ5.MBIN" _index="4" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ6.MBIN" _index="5" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ7.MBIN" _index="6" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ8.MBIN" _index="7" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ9.MBIN" _index="8" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ10.MBIN" _index="9" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ11.MBIN" _index="10" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ12.MBIN" _index="11" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ13.MBIN" _index="12" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ14.MBIN" _index="13" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ15.MBIN" _index="14" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ16.MBIN" _index="15" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ17.MBIN" _index="16" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ18.MBIN" _index="17" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ19.MBIN" _index="18" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ20.MBIN" _index="19" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ21.MBIN" _index="20" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ22.MBIN" _index="21" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ23.MBIN" _index="22" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ24.MBIN" _index="23" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ25.MBIN" _index="24" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ26.MBIN" _index="25" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ27.MBIN" _index="26" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ28.MBIN" _index="27" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ29.MBIN" _index="28" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ30.MBIN" _index="29" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ31.MBIN" _index="30" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ32.MBIN" _index="31" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ33.MBIN" _index="32" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ34.MBIN" _index="33" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ35.MBIN" _index="34" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ36.MBIN" _index="35" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ37.MBIN" _index="36" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ38.MBIN" _index="37" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ39.MBIN" _index="38" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ40.MBIN" _index="39" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ41.MBIN" _index="40" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ42.MBIN" _index="41" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ43.MBIN" _index="42" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ44.MBIN" _index="43" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ45.MBIN" _index="44" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ46.MBIN" _index="45" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ47.MBIN" _index="46" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ48.MBIN" _index="47" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ49.MBIN" _index="48" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ50.MBIN" _index="49" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ51.MBIN" _index="50" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ52.MBIN" _index="51" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ53.MBIN" _index="52" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ54.MBIN" _index="53" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ55.MBIN" _index="54" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ56.MBIN" _index="55" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ57.MBIN" _index="56" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ58.MBIN" _index="57" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ59.MBIN" _index="58" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ60.MBIN" _index="59" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ61.MBIN" _index="60" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ62.MBIN" _index="61" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ63.MBIN" _index="62" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ64.MBIN" _index="63" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ65.MBIN" _index="64" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ66.MBIN" _index="65" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ67.MBIN" _index="66" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ68.MBIN" _index="67" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ69.MBIN" _index="68" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ70.MBIN" _index="69" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ71.MBIN" _index="70" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ72.MBIN" _index="71" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ73.MBIN" _index="72" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ74.MBIN" _index="73" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ75.MBIN" _index="74" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ76.MBIN" _index="75" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ77.MBIN" _index="76" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ78.MBIN" _index="77" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ79.MBIN" _index="78" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ80.MBIN" _index="79" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ81.MBIN" _index="80" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ82.MBIN" _index="81" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ83.MBIN" _index="82" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ84.MBIN" _index="83" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ85.MBIN" _index="84" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ86.MBIN" _index="85" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ87.MBIN" _index="86" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ88.MBIN" _index="87" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ89.MBIN" _index="88" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ90.MBIN" _index="89" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ91.MBIN" _index="90" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ92.MBIN" _index="91" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ93.MBIN" _index="92" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ94.MBIN" _index="93" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ95.MBIN" _index="94" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ96.MBIN" _index="95" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ97.MBIN" _index="96" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ98.MBIN" _index="97" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ99.MBIN" _index="98" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ100.MBIN" _index="99" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ101.MBIN" _index="100" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ102.MBIN" _index="101" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ103.MBIN" _index="102" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ104.MBIN" _index="103" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ105.MBIN" _index="104" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ106.MBIN" _index="105" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ107.MBIN" _index="106" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ108.MBIN" _index="107" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ109.MBIN" _index="108" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ110.MBIN" _index="109" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ111.MBIN" _index="110" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ112.MBIN" _index="111" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ113.MBIN" _index="112" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ114.MBIN" _index="113" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ115.MBIN" _index="114" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ116.MBIN" _index="115" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ117.MBIN" _index="116" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ118.MBIN" _index="117" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ119.MBIN" _index="118" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ120.MBIN" _index="119" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ121.MBIN" _index="120" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ122.MBIN" _index="121" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ123.MBIN" _index="122" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ124.MBIN" _index="123" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ125.MBIN" _index="124" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ126.MBIN" _index="125" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ127.MBIN" _index="126" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ128.MBIN" _index="127" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ129.MBIN" _index="128" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ130.MBIN" _index="129" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ131.MBIN" _index="130" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ132.MBIN" _index="131" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ133.MBIN" _index="132" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ134.MBIN" _index="133" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ135.MBIN" _index="134" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ136.MBIN" _index="135" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ137.MBIN" _index="136" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ138.MBIN" _index="137" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ139.MBIN" _index="138" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ140.MBIN" _index="139" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ141.MBIN" _index="140" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ142.MBIN" _index="141" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ143.MBIN" _index="142" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ144.MBIN" _index="143" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ145.MBIN" _index="144" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ146.MBIN" _index="145" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ147.MBIN" _index="146" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ148.MBIN" _index="147" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ149.MBIN" _index="148" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ150.MBIN" _index="149" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ151.MBIN" _index="150" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ152.MBIN" _index="151" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ153.MBIN" _index="152" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ154.MBIN" _index="153" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ155.MBIN" _index="154" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ156.MBIN" _index="155" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ157.MBIN" _index="156" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ158.MBIN" _index="157" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ159.MBIN" _index="158" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ160.MBIN" _index="159" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ161.MBIN" _index="160" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ162.MBIN" _index="161" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ163.MBIN" _index="162" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ164.MBIN" _index="163" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ165.MBIN" _index="164" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ166.MBIN" _index="165" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ167.MBIN" _index="166" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ168.MBIN" _index="167" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ169.MBIN" _index="168" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ170.MBIN" _index="169" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ171.MBIN" _index="170" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ172.MBIN" _index="171" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ173.MBIN" _index="172" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ174.MBIN" _index="173" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ175.MBIN" _index="174" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ176.MBIN" _index="175" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ177.MBIN" _index="176" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ178.MBIN" _index="177" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ179.MBIN" _index="178" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ180.MBIN" _index="179" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ181.MBIN" _index="180" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ182.MBIN" _index="181" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ183.MBIN" _index="182" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ184.MBIN" _index="183" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ185.MBIN" _index="184" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ186.MBIN" _index="185" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ187.MBIN" _index="186" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ188.MBIN" _index="187" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ189.MBIN" _index="188" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ190.MBIN" _index="189" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ191.MBIN" _index="190" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ192.MBIN" _index="191" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ193.MBIN" _index="192" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ194.MBIN" _index="193" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ195.MBIN" _index="194" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ196.MBIN" _index="195" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ197.MBIN" _index="196" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ198.MBIN" _index="197" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ199.MBIN" _index="198" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ200.MBIN" _index="199" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ201.MBIN" _index="200" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ202.MBIN" _index="201" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ203.MBIN" _index="202" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ204.MBIN" _index="203" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ205.MBIN" _index="204" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ206.MBIN" _index="205" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ207.MBIN" _index="206" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ208.MBIN" _index="207" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ209.MBIN" _index="208" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ210.MBIN" _index="209" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ211.MBIN" _index="210" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ212.MBIN" _index="211" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ213.MBIN" _index="212" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ214.MBIN" _index="213" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ215.MBIN" _index="214" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ216.MBIN" _index="215" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ217.MBIN" _index="216" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ218.MBIN" _index="217" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ219.MBIN" _index="218" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ220.MBIN" _index="219" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ221.MBIN" _index="220" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ222.MBIN" _index="221" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ223.MBIN" _index="222" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ224.MBIN" _index="223" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ225.MBIN" _index="224" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ226.MBIN" _index="225" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ227.MBIN" _index="226" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ228.MBIN" _index="227" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ229.MBIN" _index="228" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ230.MBIN" _index="229" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ231.MBIN" _index="230" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ232.MBIN" _index="231" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ233.MBIN" _index="232" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ234.MBIN" _index="233" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ235.MBIN" _index="234" />
+				<Property name="Options" value="METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\EASTEREGGS\GENERATEDRAREOBJ236.MBIN" _index="235" />
+			</Property>
+			<Property name="Order" value="0" />
+			<Property name="SuppressSpawn" value="false" />
+		</Property>
+		<Property name="ExternalObjectLists" value="GcExternalObjectListOptions">
+			<Property name="Name" value="CRYSTALS" />
+			<Property name="ResourceHint" value="" />
+			<Property name="ResourceHintIcon" value="" />
+			<Property name="Probability" value="1.000000" />
+			<Property name="SeasonalProbabilityOverride" value="1.000000" />
+			<Property name="TileType" value="GcTerrainTileType">
+				<Property name="TileType" value="Base" />
+			</Property>
+			<Property name="AllowLimiting" value="false" />
+			<Property name="AddToFilenameHashmapWhenOptional" value="false" />
+			<Property name="ChooseUsingLifeLevel" value="false" />
+			<Property name="Options">
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/CRYSTALS/FULL.MBIN" />
+			</Property>
+			<Property name="Order" value="0" />
+			<Property name="SuppressSpawn" value="false" />
+		</Property>
+		<Property name="ExternalObjectLists" value="GcExternalObjectListOptions">
+			<Property name="Name" value="PLANTS" />
+			<Property name="ResourceHint" value="" />
+			<Property name="ResourceHintIcon" value="" />
+			<Property name="Probability" value="1.000000" />
+			<Property name="SeasonalProbabilityOverride" value="1.000000" />
+			<Property name="TileType" value="GcTerrainTileType">
+				<Property name="TileType" value="Base" />
+			</Property>
+			<Property name="AllowLimiting" value="false" />
+			<Property name="AddToFilenameHashmapWhenOptional" value="false" />
+			<Property name="ChooseUsingLifeLevel" value="false" />
+			<Property name="Options">
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/PLANT/DEADPLANETS.MBIN" />
+			</Property>
+			<Property name="Order" value="0" />
+			<Property name="SuppressSpawn" value="false" />
+		</Property>
+	</Property>
+	<Property name="WeatherOptions">
+		<Property name="Yellow" value="GcWeatherWeightings">
+			<Property name="WeatherWeightings">
+				<Property name="Clear" value="0.000000" />
+				<Property name="Dust" value="0.000000" />
+				<Property name="Humid" value="0.000000" />
+				<Property name="Snow" value="0.000000" />
+				<Property name="Toxic" value="0.000000" />
+				<Property name="Scorched" value="0.000000" />
+				<Property name="Radioactive" value="0.000000" />
+				<Property name="RedWeather" value="0.000000" />
+				<Property name="GreenWeather" value="0.000000" />
+				<Property name="BlueWeather" value="0.000000" />
+				<Property name="Swamp" value="0.000000" />
+				<Property name="Lava" value="0.000000" />
+				<Property name="Bubble" value="0.000000" />
+				<Property name="Weird" value="0.000000" />
+				<Property name="Fire" value="0.000000" />
+				<Property name="ClearCold" value="1.000000" />
+				<Property name="GasGiant" value="0.000000" />
+			</Property>
+		</Property>
+		<Property name="Green" value="GcWeatherWeightings">
+			<Property name="WeatherWeightings">
+				<Property name="Clear" value="0.000000" />
+				<Property name="Dust" value="0.000000" />
+				<Property name="Humid" value="0.000000" />
+				<Property name="Snow" value="0.000000" />
+				<Property name="Toxic" value="0.000000" />
+				<Property name="Scorched" value="0.000000" />
+				<Property name="Radioactive" value="0.000000" />
+				<Property name="RedWeather" value="0.000000" />
+				<Property name="GreenWeather" value="0.000000" />
+				<Property name="BlueWeather" value="0.000000" />
+				<Property name="Swamp" value="0.000000" />
+				<Property name="Lava" value="0.000000" />
+				<Property name="Bubble" value="0.000000" />
+				<Property name="Weird" value="0.000000" />
+				<Property name="Fire" value="0.000000" />
+				<Property name="ClearCold" value="1.000000" />
+				<Property name="GasGiant" value="0.000000" />
+			</Property>
+		</Property>
+		<Property name="Blue" value="GcWeatherWeightings">
+			<Property name="WeatherWeightings">
+				<Property name="Clear" value="0.000000" />
+				<Property name="Dust" value="0.000000" />
+				<Property name="Humid" value="0.000000" />
+				<Property name="Snow" value="0.000000" />
+				<Property name="Toxic" value="0.000000" />
+				<Property name="Scorched" value="0.000000" />
+				<Property name="Radioactive" value="0.000000" />
+				<Property name="RedWeather" value="0.000000" />
+				<Property name="GreenWeather" value="0.000000" />
+				<Property name="BlueWeather" value="0.000000" />
+				<Property name="Swamp" value="0.000000" />
+				<Property name="Lava" value="0.000000" />
+				<Property name="Bubble" value="0.000000" />
+				<Property name="Weird" value="0.000000" />
+				<Property name="Fire" value="0.000000" />
+				<Property name="ClearCold" value="1.000000" />
+				<Property name="GasGiant" value="0.000000" />
+			</Property>
+		</Property>
+		<Property name="Red" value="GcWeatherWeightings">
+			<Property name="WeatherWeightings">
+				<Property name="Clear" value="0.000000" />
+				<Property name="Dust" value="0.000000" />
+				<Property name="Humid" value="0.000000" />
+				<Property name="Snow" value="0.000000" />
+				<Property name="Toxic" value="0.000000" />
+				<Property name="Scorched" value="0.000000" />
+				<Property name="Radioactive" value="0.000000" />
+				<Property name="RedWeather" value="0.000000" />
+				<Property name="GreenWeather" value="0.000000" />
+				<Property name="BlueWeather" value="0.000000" />
+				<Property name="Swamp" value="0.000000" />
+				<Property name="Lava" value="0.000000" />
+				<Property name="Bubble" value="0.000000" />
+				<Property name="Weird" value="0.000000" />
+				<Property name="Fire" value="0.000000" />
+				<Property name="ClearCold" value="1.000000" />
+				<Property name="GasGiant" value="0.000000" />
+			</Property>
+		</Property>
+		<Property name="Purple" value="GcWeatherWeightings">
+			<Property name="WeatherWeightings">
+				<Property name="Clear" value="0.000000" />
+				<Property name="Dust" value="0.000000" />
+				<Property name="Humid" value="0.000000" />
+				<Property name="Snow" value="0.000000" />
+				<Property name="Toxic" value="0.000000" />
+				<Property name="Scorched" value="0.000000" />
+				<Property name="Radioactive" value="0.000000" />
+				<Property name="RedWeather" value="0.000000" />
+				<Property name="GreenWeather" value="0.000000" />
+				<Property name="BlueWeather" value="0.000000" />
+				<Property name="Swamp" value="0.000000" />
+				<Property name="Lava" value="0.000000" />
+				<Property name="Bubble" value="0.000000" />
+				<Property name="Weird" value="0.000000" />
+				<Property name="Fire" value="0.000000" />
+				<Property name="ClearCold" value="1.000000" />
+				<Property name="GasGiant" value="0.000000" />
+			</Property>
+		</Property>
+	</Property>
+	<Property name="WeatherChangeTime">
+		<Property name="X" value="0.000000" />
+		<Property name="Y" value="0.000000" />
+	</Property>
+	<Property name="DarknessVariation" value="0.700000" />
+	<Property name="CloudSettings" value="GcBiomeCloudSettings">
+		<Property name="MinCoverage" value="0.100000" />
+		<Property name="MaxCoverage" value="0.500000" />
+		<Property name="MinCoverageVariance" value="0.000000" />
+		<Property name="MaxCoverageVariance" value="0.200000" />
+		<Property name="MinCover" value="-0.600000" />
+		<Property name="MaxCover" value="0.600000" />
+		<Property name="MinVariance" value="0.000000" />
+		<Property name="MaxVariance" value="0.600000" />
+		<Property name="MinRateOfChange" value="0.050000" />
+		<Property name="MaxRateOfChange" value="1.250000" />
+		<Property name="MinRatio" value="1.000000" />
+		<Property name="MaxRatio" value="1.000000" />
+		<Property name="TendencyTowardsBeingCloudy" value="0.500000" />
+		<Property name="StormCloudTopColour">
+			<Property name="R" value="0.050000" />
+			<Property name="G" value="0.050000" />
+			<Property name="B" value="0.050000" />
+			<Property name="A" value="1.000000" />
+		</Property>
+		<Property name="StormCloudBottomColour">
+			<Property name="R" value="0.050000" />
+			<Property name="G" value="0.050000" />
+			<Property name="B" value="0.050000" />
+			<Property name="A" value="1.000000" />
+		</Property>
+	</Property>
+	<Property name="Terrain" value="GcTerrainControls">
+		<Property name="NoiseLayers">
+			<Property name="Base" value="1.000000" />
+			<Property name="Hill" value="1.000000" />
+			<Property name="Mountain" value="1.000000" />
+			<Property name="Rock" value="1.000000" />
+			<Property name="UnderWater" value="0.000000" />
+			<Property name="Texture" value="0.000000" />
+			<Property name="Elevation" value="1.000000" />
+			<Property name="Continent" value="1.000000" />
+		</Property>
+		<Property name="GridLayers">
+			<Property name="Small" value="0.750000" />
+			<Property name="Large" value="0.750000" />
+			<Property name="Resources_Heridium" value="1.000000" />
+			<Property name="Resources_Iridium" value="1.000000" />
+			<Property name="Resources_Copper" value="1.000000" />
+			<Property name="Resources_Nickel" value="0.000000" />
+			<Property name="Resources_Aluminium" value="0.000000" />
+			<Property name="Resources_Gold" value="0.000000" />
+			<Property name="Resources_Emeril" value="0.000000" />
+		</Property>
+		<Property name="Features">
+			<Property name="River" value="1.000000" />
+			<Property name="Crater" value="1.000000" />
+			<Property name="Arches" value="1.000000" />
+			<Property name="ArchesSmall" value="1.000000" />
+			<Property name="Blobs" value="1.000000" />
+			<Property name="BlobsSmall" value="1.000000" />
+			<Property name="Substance" value="0.000000" />
+		</Property>
+		<Property name="Caves">
+			<Property name="Underground" value="1.000000" />
+		</Property>
+		<Property name="WaterActiveFrequency" value="0.300000" />
+		<Property name="HighWaterActiveFrequency" value="0.000000" />
+		<Property name="RockTileFrequency" value="0.250000" />
+		<Property name="SubstanceTileFrequency" value="0.250000" />
+		<Property name="ForceContinentalNoise" value="false" />
+	</Property>
+	<Property name="FilterOptions">
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="Frozen" />
+			</Property>
+			<Property name="Weight" value="1.000000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="Vintage" />
+			</Property>
+			<Property name="Weight" value="0.100000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="HueShiftA" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="HueShiftB" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="HueShiftC" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="HueShiftD" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="Weird2" />
+			</Property>
+			<Property name="Weight" value="0.020000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="Weird4" />
+			</Property>
+			<Property name="Weight" value="0.020000" />
+		</Property>
+	</Property>
+	<Property name="FloraLifeLocID" value="" />
+</Data>

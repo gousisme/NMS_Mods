@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+File created using MBINCompiler version (5.71.0.1)
+Author: Gumsk
+ModName: gSettlement Timers
+-->
+<Data template="cGcSettlementGlobals">
+	<Property name="BuildingUpgradeTimeInSeconds" value="11700" />
+	<Property name="BuildingFreeUpgradeTimeInSeconds" value="1" />
+	<Property name="JudgementWaitTimeMin" value="225" />
+	<Property name="JudgementWaitTimeMax" value="1800" />
+	<Property name="SettlementBuildingTimes">
+		<Property name="Settlement_LandingZone" value="900" />
+		<Property name="Settlement_Bar" value="900" />
+		<Property name="Settlement_Tower" value="900" />
+		<Property name="Settlement_Market" value="1800" />
+		<Property name="Settlement_Small" value="300" />
+		<Property name="Settlement_SmallIndustrial" value="300" />
+		<Property name="Settlement_Medium" value="700" />
+		<Property name="Settlement_Large" value="1800" />
+		<Property name="Settlement_SheriffsOffice" value="22" />
+		<Property name="Settlement_Double" value="900" />
+		<Property name="Settlement_Farm" value="1400" />
+		<Property name="Settlement_Factory" value="1400" />
+		<Property name="Settlement_FishPond" value="300" />
+		<Property name="Settlement_Builders_RoboArm" value="900" />
+	</Property>
+</Data>

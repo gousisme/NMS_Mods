@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcCreatureGlobals">	
+	<Property name="RideSpeedFast" value="3.000000" />
+	<Property name="RideSpeedChangeTime" value="11.200000" />
+	<Property name="RiderLeanTime" value="1.300000" />
+	<Property name="PostRideMoveTime" value="2.000000" />
+	<Property name="MinRideSize" value="2.000000" />
+	<Property name="PetWalkAtHeelChanceDevoted" value="0.000100" />	
+	<Property name="PetWalkAtHeelChanceIndependent" value="0.900000" />
+	<Property name="PetWalkAtHeelDistMin" value="0.500000" />
+	<Property name="PetWalkAtHeelDistMax" value="1.800000" />
+	<Property name="PetRunAtHeelDistMin" value="0.200000" />
+	<Property name="PetWalkAtHeelDistMax" value="1.000000" />
+	<Property name="PetRunAtHeelDistMax" value="10.000000" />
+	<Property name="PetFollowRunPlayerDistance" value="1000.000000" />	
+	<Property name="MaxSpeed" value="10.000000" />
+	<Property name="CreatureMedMinSize" value="5.200000" />
+	<Property name="CreatureLargeMinSize" value="12.500000" />
+	<Property name="CreatureHugeMinSize" value="20.500000" />
+	<Property name="CreatureRidingMedMinSize" value="5.000000" />
+	<Property name="CreatureRidingLargeMinSize" value="12.000000" />
+	<Property name="CreatureRidingHugeMinSize" value="20.000000" />
+	<Property name="PetIncubationTime" value="7200.000000" />
+	<Property name="PetTrustChangeInterval" value="7200.000000" />
+	<Property name="PetEggFirstEggDelay" value="7200.000000" />	
+</Data>

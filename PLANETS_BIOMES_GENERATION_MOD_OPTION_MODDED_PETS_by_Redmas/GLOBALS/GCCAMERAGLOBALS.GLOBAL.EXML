@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcCameraGlobals">
+	<Property name="CharacterRideCam" value="GcCameraFollowSettings">
+		<Property name="BackMinDistance" value="5.000000" />		
+	</Property>
+	<Property name="CharacterRideCamMedium" value="GcCameraFollowSettings">
+		<Property name="BackMinDistance" value="10.000000" />
+	</Property>
+	<Property name="CharacterRideCamLarge" value="GcCameraFollowSettings">
+		<Property name="BackMinDistance" value="25.000000" />
+	</Property>
+	<Property name="CharacterRideCamHuge" value="GcCameraFollowSettings">	
+		<Property name="BackMinDistance" value="50.000000" />	
+	</Property>
+
+</Data>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.51.0.1)-->
+<Data template="GcDebugOptions">
+	<Property name="AlwaysHaveFocus" value="true" />
+	<Property name="AllowPause" value="false" />
+</Data>

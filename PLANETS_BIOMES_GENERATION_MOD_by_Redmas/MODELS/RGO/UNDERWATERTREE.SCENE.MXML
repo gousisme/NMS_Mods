@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.63.0.1)-->
+<Data template="cTkSceneNodeData">
+	<Property name="Name" value="MODELS\PLANETS\BIOMES\UNDERWATER\LARGEPLANTS\UNDERWATERTREE" />
+	<Property name="NameHash" value="578829662" />
+	<Property name="Type" value="MODEL" />
+	<Property name="Transform" value="TkTransformData">
+		<Property name="TransX" value="0.000000" />
+		<Property name="TransY" value="0.000000" />
+		<Property name="TransZ" value="0.000000" />
+		<Property name="RotX" value="0.000000" />
+		<Property name="RotY" value="0.000000" />
+		<Property name="RotZ" value="0.000000" />
+		<Property name="ScaleX" value="1.000000" />
+		<Property name="ScaleY" value="1.000000" />
+		<Property name="ScaleZ" value="1.000000" />
+	</Property>
+	<Property name="PlatformExclusion" value="0" />
+	<Property name="Attributes">
+		<Property name="Attributes" value="TkSceneNodeAttributeData" _index="0">
+			<Property name="Name" value="GEOMETRY" />
+			<Property name="Value" value="MODELS\PLANETS\BIOMES\UNDERWATER\LARGEPLANTS\UNDERWATERTREE.GEOMETRY.MBIN" />
+		</Property>
+		<Property name="Attributes" value="TkSceneNodeAttributeData" _index="1">
+			<Property name="Name" value="NUMLODS" />
+			<Property name="Value" value="1" />
+		</Property>
+		<Property name="Attributes" value="TkSceneNodeAttributeData" _index="2">
+			<Property name="Name" value="ATTACHMENT" />
+			<Property name="Value" value="MODELS\PLANETS\BIOMES\COMMON\TREES\MEDIUMTREE1\ENTITIES\MEDIUMTREE.ENTITY.MBIN" />
+		</Property>
+	</Property>
+	<Property name="Children">
+		<Property name="Children" value="TkSceneNodeData" _index="0">
+			<Property name="Name" value="_TRUNK_BLOD0" />
+			<Property name="NameHash" value="1831706403" />
+			<Property name="Type" value="MESH" />
+			<Property name="Transform" value="TkTransformData">
+				<Property name="TransX" value="0.000000" />
+				<Property name="TransY" value="0.000000" />
+				<Property name="TransZ" value="0.000000" />
+				<Property name="RotX" value="0.000000" />
+				<Property name="RotY" value="0.000000" />
+				<Property name="RotZ" value="0.000000" />
+				<Property name="ScaleX" value="1.000000" />
+				<Property name="ScaleY" value="1.000000" />
+				<Property name="ScaleZ" value="1.000000" />
+			</Property>
+			<Property name="PlatformExclusion" value="0" />
+			<Property name="Attributes">
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="0">
+					<Property name="Name" value="BATCHSTARTPHYSI" />
+					<Property name="Value" value="0" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="1">
+					<Property name="Name" value="VERTRSTARTPHYSI" />
+					<Property name="Value" value="0" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="2">
+					<Property name="Name" value="VERTRENDPHYSICS" />
+					<Property name="Value" value="470" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="3">
+					<Property name="Name" value="BATCHSTARTGRAPH" />
+					<Property name="Value" value="0" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="4">
+					<Property name="Name" value="BATCHCOUNT" />
+					<Property name="Value" value="1920" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="5">
+					<Property name="Name" value="VERTRSTARTGRAPH" />
+					<Property name="Value" value="0" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="6">
+					<Property name="Name" value="VERTRENDGRAPHIC" />
+					<Property name="Value" value="470" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="7">
+					<Property name="Name" value="FIRSTSKINMAT" />
+					<Property name="Value" value="0" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="8">
+					<Property name="Name" value="LASTSKINMAT" />
+					<Property name="Value" value="0" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="9">
+					<Property name="Name" value="LODLEVEL" />
+					<Property name="Value" value="0" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="10">
+					<Property name="Name" value="BOUNDHULLST" />
+					<Property name="Value" value="0" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="11">
+					<Property name="Name" value="BOUNDHULLED" />
+					<Property name="Value" value="38" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="12">
+					<Property name="Name" value="AABBMINX" />
+					<Property name="Value" value="-0.226210" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="13">
+					<Property name="Name" value="AABBMINY" />
+					<Property name="Value" value="-0.245564" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="14">
+					<Property name="Name" value="AABBMINZ" />
+					<Property name="Value" value="-0.245587" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="15">
+					<Property name="Name" value="AABBMAXX" />
+					<Property name="Value" value="0.303530" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="16">
+					<Property name="Name" value="AABBMAXY" />
+					<Property name="Value" value="1.145640" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="17">
+					<Property name="Name" value="AABBMAXZ" />
+					<Property name="Value" value="0.292590" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="18">
+					<Property name="Name" value="HASH" />
+					<Property name="Value" value="9379753512368149879" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="19">
+					<Property name="Name" value="MATERIAL" />
+					<Property name="Value" value="MODELS\PLANETS\BIOMES\UNDERWATER\LARGEPLANTS\UNDERWATERTREE\TILINGLUMPMAT.MATERIAL.MBIN" />
+				</Property>
+				<Property name="Attributes" value="TkSceneNodeAttributeData" _index="20">
+					<Property name="Name" value="MESHLINK" />
+					<Property name="Value" value="_TRUNK_BLOD0Shape" />
+				</Property>
+			</Property>
+			<Property name="Children">
+				<Property name="Children" value="TkSceneNodeData" _index="0">
+					<Property name="Name" value="MODELS\PLANETS\BIOMES\UNDERWATER\LARGEPLANTS\UNDERWATERTREE" />
+					<Property name="NameHash" value="578829662" />
+					<Property name="Type" value="COLLISION" />
+					<Property name="Transform" value="TkTransformData">
+						<Property name="TransX" value="0.000000" />
+						<Property name="TransY" value="0.644854" />
+						<Property name="TransZ" value="0.000000" />
+						<Property name="RotX" value="0.000000" />
+						<Property name="RotY" value="0.000000" />
+						<Property name="RotZ" value="0.000000" />
+						<Property name="ScaleX" value="1.000000" />
+						<Property name="ScaleY" value="1.000000" />
+						<Property name="ScaleZ" value="1.000000" />
+					</Property>
+					<Property name="PlatformExclusion" value="0" />
+					<Property name="Attributes">
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="0">
+							<Property name="Name" value="TYPE" />
+							<Property name="Value" value="Capsule" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="1">
+							<Property name="Name" value="RADIUS" />
+							<Property name="Value" value="0.439210" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="2">
+							<Property name="Name" value="HEIGHT" />
+							<Property name="Value" value="1.375824" />
+						</Property>
+					</Property>
+					<Property name="Children" />
+				</Property>
+				<Property name="Children" value="TkSceneNodeData" _index="1">
+					<Property name="Name" value="_BRANCH_B2LOD0" />
+					<Property name="NameHash" value="3919623369" />
+					<Property name="Type" value="MESH" />
+					<Property name="Transform" value="TkTransformData">
+						<Property name="TransX" value="0.000000" />
+						<Property name="TransY" value="0.000000" />
+						<Property name="TransZ" value="0.000000" />
+						<Property name="RotX" value="0.000000" />
+						<Property name="RotY" value="0.000000" />
+						<Property name="RotZ" value="0.000000" />
+						<Property name="ScaleX" value="1.000000" />
+						<Property name="ScaleY" value="1.000000" />
+						<Property name="ScaleZ" value="1.000000" />
+					</Property>
+					<Property name="PlatformExclusion" value="0" />
+					<Property name="Attributes">
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="0">
+							<Property name="Name" value="BATCHSTARTPHYSI" />
+							<Property name="Value" value="3360" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="1">
+							<Property name="Name" value="VERTRSTARTPHYSI" />
+							<Property name="Value" value="755" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="2">
+							<Property name="Name" value="VERTRENDPHYSICS" />
+							<Property name="Value" value="1327" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="3">
+							<Property name="Name" value="BATCHSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="4">
+							<Property name="Name" value="BATCHCOUNT" />
+							<Property name="Value" value="1872" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="5">
+							<Property name="Name" value="VERTRSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="6">
+							<Property name="Name" value="VERTRENDGRAPHIC" />
+							<Property name="Value" value="572" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="7">
+							<Property name="Name" value="FIRSTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="8">
+							<Property name="Name" value="LASTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="9">
+							<Property name="Name" value="LODLEVEL" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="10">
+							<Property name="Name" value="BOUNDHULLST" />
+							<Property name="Value" value="86" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="11">
+							<Property name="Name" value="BOUNDHULLED" />
+							<Property name="Value" value="128" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="12">
+							<Property name="Name" value="AABBMINX" />
+							<Property name="Value" value="-0.425089" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="13">
+							<Property name="Name" value="AABBMINY" />
+							<Property name="Value" value="0.062794" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="14">
+							<Property name="Name" value="AABBMINZ" />
+							<Property name="Value" value="-0.564369" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="15">
+							<Property name="Name" value="AABBMAXX" />
+							<Property name="Value" value="0.617104" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="16">
+							<Property name="Name" value="AABBMAXY" />
+							<Property name="Value" value="1.236300" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="17">
+							<Property name="Name" value="AABBMAXZ" />
+							<Property name="Value" value="0.618067" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="18">
+							<Property name="Name" value="HASH" />
+							<Property name="Value" value="9196187725858671705" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="19">
+							<Property name="Name" value="MATERIAL" />
+							<Property name="Value" value="MODELS\PLANETS\BIOMES\UNDERWATER\LARGEPLANTS\UNDERWATERTREE\TILINGLUMPMAT.MATERIAL.MBIN" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="20">
+							<Property name="Name" value="MESHLINK" />
+							<Property name="Value" value="_BRANCH_B2LOD0Shape" />
+						</Property>
+					</Property>
+					<Property name="Children" />
+				</Property>
+				<Property name="Children" value="TkSceneNodeData" _index="2">
+					<Property name="Name" value="_BRANCH_B3LOD0" />
+					<Property name="NameHash" value="2911160670" />
+					<Property name="Type" value="MESH" />
+					<Property name="Transform" value="TkTransformData">
+						<Property name="TransX" value="0.000000" />
+						<Property name="TransY" value="0.000000" />
+						<Property name="TransZ" value="0.000000" />
+						<Property name="RotX" value="0.000000" />
+						<Property name="RotY" value="0.000000" />
+						<Property name="RotZ" value="0.000000" />
+						<Property name="ScaleX" value="1.000000" />
+						<Property name="ScaleY" value="1.000000" />
+						<Property name="ScaleZ" value="1.000000" />
+					</Property>
+					<Property name="PlatformExclusion" value="0" />
+					<Property name="Attributes">
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="0">
+							<Property name="Name" value="BATCHSTARTPHYSI" />
+							<Property name="Value" value="5232" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="1">
+							<Property name="Name" value="VERTRSTARTPHYSI" />
+							<Property name="Value" value="1328" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="2">
+							<Property name="Name" value="VERTRENDPHYSICS" />
+							<Property name="Value" value="1921" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="3">
+							<Property name="Name" value="BATCHSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="4">
+							<Property name="Name" value="BATCHCOUNT" />
+							<Property name="Value" value="2460" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="5">
+							<Property name="Name" value="VERTRSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="6">
+							<Property name="Name" value="VERTRENDGRAPHIC" />
+							<Property name="Value" value="593" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="7">
+							<Property name="Name" value="FIRSTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="8">
+							<Property name="Name" value="LASTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="9">
+							<Property name="Name" value="LODLEVEL" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="10">
+							<Property name="Name" value="BOUNDHULLST" />
+							<Property name="Value" value="128" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="11">
+							<Property name="Name" value="BOUNDHULLED" />
+							<Property name="Value" value="176" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="12">
+							<Property name="Name" value="AABBMINX" />
+							<Property name="Value" value="-0.516231" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="13">
+							<Property name="Name" value="AABBMINY" />
+							<Property name="Value" value="0.177817" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="14">
+							<Property name="Name" value="AABBMINZ" />
+							<Property name="Value" value="-0.598225" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="15">
+							<Property name="Name" value="AABBMAXX" />
+							<Property name="Value" value="0.591826" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="16">
+							<Property name="Name" value="AABBMAXY" />
+							<Property name="Value" value="1.076380" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="17">
+							<Property name="Name" value="AABBMAXZ" />
+							<Property name="Value" value="0.476684" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="18">
+							<Property name="Name" value="HASH" />
+							<Property name="Value" value="5042144406093515155" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="19">
+							<Property name="Name" value="MATERIAL" />
+							<Property name="Value" value="MODELS\PLANETS\BIOMES\UNDERWATER\LARGEPLANTS\UNDERWATERTREE\TILINGLUMPMAT.MATERIAL.MBIN" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="20">
+							<Property name="Name" value="MESHLINK" />
+							<Property name="Value" value="_BRANCH_B3LOD0Shape" />
+						</Property>
+					</Property>
+					<Property name="Children" />
+				</Property>
+				<Property name="Children" value="TkSceneNodeData" _index="3">
+					<Property name="Name" value="_ACC_B3LOD0" />
+					<Property name="NameHash" value="4261525268" />
+					<Property name="Type" value="MESH" />
+					<Property name="Transform" value="TkTransformData">
+						<Property name="TransX" value="0.000000" />
+						<Property name="TransY" value="0.000000" />
+						<Property name="TransZ" value="0.000000" />
+						<Property name="RotX" value="0.000000" />
+						<Property name="RotY" value="0.000000" />
+						<Property name="RotZ" value="0.000000" />
+						<Property name="ScaleX" value="1.000000" />
+						<Property name="ScaleY" value="1.000000" />
+						<Property name="ScaleZ" value="1.000000" />
+					</Property>
+					<Property name="PlatformExclusion" value="0" />
+					<Property name="Attributes">
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="0">
+							<Property name="Name" value="BATCHSTARTPHYSI" />
+							<Property name="Value" value="7692" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="1">
+							<Property name="Name" value="VERTRSTARTPHYSI" />
+							<Property name="Value" value="1922" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="2">
+							<Property name="Name" value="VERTRENDPHYSICS" />
+							<Property name="Value" value="2386" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="3">
+							<Property name="Name" value="BATCHSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="4">
+							<Property name="Name" value="BATCHCOUNT" />
+							<Property name="Value" value="1842" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="5">
+							<Property name="Name" value="VERTRSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="6">
+							<Property name="Name" value="VERTRENDGRAPHIC" />
+							<Property name="Value" value="464" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="7">
+							<Property name="Name" value="FIRSTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="8">
+							<Property name="Name" value="LASTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="9">
+							<Property name="Name" value="LODLEVEL" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="10">
+							<Property name="Name" value="BOUNDHULLST" />
+							<Property name="Value" value="176" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="11">
+							<Property name="Name" value="BOUNDHULLED" />
+							<Property name="Value" value="224" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="12">
+							<Property name="Name" value="AABBMINX" />
+							<Property name="Value" value="-0.184422" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="13">
+							<Property name="Name" value="AABBMINY" />
+							<Property name="Value" value="-0.023761" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="14">
+							<Property name="Name" value="AABBMINZ" />
+							<Property name="Value" value="-0.201088" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="15">
+							<Property name="Name" value="AABBMAXX" />
+							<Property name="Value" value="0.194344" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="16">
+							<Property name="Name" value="AABBMAXY" />
+							<Property name="Value" value="0.556039" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="17">
+							<Property name="Name" value="AABBMAXZ" />
+							<Property name="Value" value="0.216832" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="18">
+							<Property name="Name" value="HASH" />
+							<Property name="Value" value="7053321108384093357" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="19">
+							<Property name="Name" value="MATERIAL" />
+							<Property name="Value" value="MODELS\PLANETS\BIOMES\UNDERWATER\LARGEPLANTS\UNDERWATERTREE\TILINGLUMPMAT.MATERIAL.MBIN" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="20">
+							<Property name="Name" value="MESHLINK" />
+							<Property name="Value" value="_ACC_B3LOD0Shape" />
+						</Property>
+					</Property>
+					<Property name="Children" />
+				</Property>
+				<Property name="Children" value="TkSceneNodeData" _index="4">
+					<Property name="Name" value="_ACC_B2LOD0" />
+					<Property name="NameHash" value="1394761478" />
+					<Property name="Type" value="MESH" />
+					<Property name="Transform" value="TkTransformData">
+						<Property name="TransX" value="0.000000" />
+						<Property name="TransY" value="0.000000" />
+						<Property name="TransZ" value="0.000000" />
+						<Property name="RotX" value="0.000000" />
+						<Property name="RotY" value="0.000000" />
+						<Property name="RotZ" value="0.000000" />
+						<Property name="ScaleX" value="1.000000" />
+						<Property name="ScaleY" value="1.000000" />
+						<Property name="ScaleZ" value="1.000000" />
+					</Property>
+					<Property name="PlatformExclusion" value="0" />
+					<Property name="Attributes">
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="0">
+							<Property name="Name" value="BATCHSTARTPHYSI" />
+							<Property name="Value" value="9534" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="1">
+							<Property name="Name" value="VERTRSTARTPHYSI" />
+							<Property name="Value" value="2387" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="2">
+							<Property name="Name" value="VERTRENDPHYSICS" />
+							<Property name="Value" value="2945" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="3">
+							<Property name="Name" value="BATCHSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="4">
+							<Property name="Name" value="BATCHCOUNT" />
+							<Property name="Value" value="2322" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="5">
+							<Property name="Name" value="VERTRSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="6">
+							<Property name="Name" value="VERTRENDGRAPHIC" />
+							<Property name="Value" value="558" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="7">
+							<Property name="Name" value="FIRSTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="8">
+							<Property name="Name" value="LASTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="9">
+							<Property name="Name" value="LODLEVEL" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="10">
+							<Property name="Name" value="BOUNDHULLST" />
+							<Property name="Value" value="224" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="11">
+							<Property name="Name" value="BOUNDHULLED" />
+							<Property name="Value" value="272" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="12">
+							<Property name="Name" value="AABBMINX" />
+							<Property name="Value" value="-0.203036" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="13">
+							<Property name="Name" value="AABBMINY" />
+							<Property name="Value" value="0.040879" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="14">
+							<Property name="Name" value="AABBMINZ" />
+							<Property name="Value" value="-0.201922" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="15">
+							<Property name="Name" value="AABBMAXX" />
+							<Property name="Value" value="0.205542" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="16">
+							<Property name="Name" value="AABBMAXY" />
+							<Property name="Value" value="0.549604" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="17">
+							<Property name="Name" value="AABBMAXZ" />
+							<Property name="Value" value="0.176674" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="18">
+							<Property name="Name" value="HASH" />
+							<Property name="Value" value="6981763691512543625" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="19">
+							<Property name="Name" value="MATERIAL" />
+							<Property name="Value" value="MODELS\PLANETS\BIOMES\UNDERWATER\LARGEPLANTS\UNDERWATERTREE\TILINGLUMPMAT.MATERIAL.MBIN" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="20">
+							<Property name="Name" value="MESHLINK" />
+							<Property name="Value" value="_ACC_B2LOD0Shape" />
+						</Property>
+					</Property>
+					<Property name="Children" />
+				</Property>
+				<Property name="Children" value="TkSceneNodeData" _index="5">
+					<Property name="Name" value="_ACC_B1LOD0" />
+					<Property name="NameHash" value="555202933" />
+					<Property name="Type" value="MESH" />
+					<Property name="Transform" value="TkTransformData">
+						<Property name="TransX" value="0.000000" />
+						<Property name="TransY" value="0.000000" />
+						<Property name="TransZ" value="0.000000" />
+						<Property name="RotX" value="0.000000" />
+						<Property name="RotY" value="0.000000" />
+						<Property name="RotZ" value="0.000000" />
+						<Property name="ScaleX" value="1.000000" />
+						<Property name="ScaleY" value="1.000000" />
+						<Property name="ScaleZ" value="1.000000" />
+					</Property>
+					<Property name="PlatformExclusion" value="0" />
+					<Property name="Attributes">
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="0">
+							<Property name="Name" value="BATCHSTARTPHYSI" />
+							<Property name="Value" value="11856" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="1">
+							<Property name="Name" value="VERTRSTARTPHYSI" />
+							<Property name="Value" value="2946" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="2">
+							<Property name="Name" value="VERTRENDPHYSICS" />
+							<Property name="Value" value="3662" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="3">
+							<Property name="Name" value="BATCHSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="4">
+							<Property name="Name" value="BATCHCOUNT" />
+							<Property name="Value" value="2484" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="5">
+							<Property name="Name" value="VERTRSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="6">
+							<Property name="Name" value="VERTRENDGRAPHIC" />
+							<Property name="Value" value="716" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="7">
+							<Property name="Name" value="FIRSTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="8">
+							<Property name="Name" value="LASTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="9">
+							<Property name="Name" value="LODLEVEL" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="10">
+							<Property name="Name" value="BOUNDHULLST" />
+							<Property name="Value" value="272" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="11">
+							<Property name="Name" value="BOUNDHULLED" />
+							<Property name="Value" value="313" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="12">
+							<Property name="Name" value="AABBMINX" />
+							<Property name="Value" value="-0.180965" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="13">
+							<Property name="Name" value="AABBMINY" />
+							<Property name="Value" value="0.032551" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="14">
+							<Property name="Name" value="AABBMINZ" />
+							<Property name="Value" value="-0.179587" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="15">
+							<Property name="Name" value="AABBMAXX" />
+							<Property name="Value" value="0.188617" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="16">
+							<Property name="Name" value="AABBMAXY" />
+							<Property name="Value" value="0.581323" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="17">
+							<Property name="Name" value="AABBMAXZ" />
+							<Property name="Value" value="0.174713" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="18">
+							<Property name="Name" value="HASH" />
+							<Property name="Value" value="8754114882569260990" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="19">
+							<Property name="Name" value="MATERIAL" />
+							<Property name="Value" value="MODELS\PLANETS\BIOMES\UNDERWATER\LARGEPLANTS\UNDERWATERTREE\TILINGLUMPMAT.MATERIAL.MBIN" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="20">
+							<Property name="Name" value="MESHLINK" />
+							<Property name="Value" value="_ACC_B1LOD0Shape" />
+						</Property>
+					</Property>
+					<Property name="Children" />
+				</Property>
+				<Property name="Children" value="TkSceneNodeData" _index="6">
+					<Property name="Name" value="_BRANCH_B1LOD0" />
+					<Property name="NameHash" value="3813962980" />
+					<Property name="Type" value="MESH" />
+					<Property name="Transform" value="TkTransformData">
+						<Property name="TransX" value="0.000000" />
+						<Property name="TransY" value="0.000000" />
+						<Property name="TransZ" value="0.000000" />
+						<Property name="RotX" value="0.000000" />
+						<Property name="RotY" value="0.000000" />
+						<Property name="RotZ" value="0.000000" />
+						<Property name="ScaleX" value="1.000000" />
+						<Property name="ScaleY" value="1.000000" />
+						<Property name="ScaleZ" value="1.000000" />
+					</Property>
+					<Property name="PlatformExclusion" value="0" />
+					<Property name="Attributes">
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="0">
+							<Property name="Name" value="BATCHSTARTPHYSI" />
+							<Property name="Value" value="14340" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="1">
+							<Property name="Name" value="VERTRSTARTPHYSI" />
+							<Property name="Value" value="3663" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="2">
+							<Property name="Name" value="VERTRENDPHYSICS" />
+							<Property name="Value" value="4115" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="3">
+							<Property name="Name" value="BATCHSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="4">
+							<Property name="Name" value="BATCHCOUNT" />
+							<Property name="Value" value="1296" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="5">
+							<Property name="Name" value="VERTRSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="6">
+							<Property name="Name" value="VERTRENDGRAPHIC" />
+							<Property name="Value" value="452" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="7">
+							<Property name="Name" value="FIRSTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="8">
+							<Property name="Name" value="LASTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="9">
+							<Property name="Name" value="LODLEVEL" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="10">
+							<Property name="Name" value="BOUNDHULLST" />
+							<Property name="Value" value="313" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="11">
+							<Property name="Name" value="BOUNDHULLED" />
+							<Property name="Value" value="357" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="12">
+							<Property name="Name" value="AABBMINX" />
+							<Property name="Value" value="-0.292979" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="13">
+							<Property name="Name" value="AABBMINY" />
+							<Property name="Value" value="0.219725" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="14">
+							<Property name="Name" value="AABBMINZ" />
+							<Property name="Value" value="-0.478901" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="15">
+							<Property name="Name" value="AABBMAXX" />
+							<Property name="Value" value="0.347931" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="16">
+							<Property name="Name" value="AABBMAXY" />
+							<Property name="Value" value="1.495800" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="17">
+							<Property name="Name" value="AABBMAXZ" />
+							<Property name="Value" value="0.480711" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="18">
+							<Property name="Name" value="HASH" />
+							<Property name="Value" value="18254733783036556705" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="19">
+							<Property name="Name" value="MATERIAL" />
+							<Property name="Value" value="MODELS\PLANETS\BIOMES\UNDERWATER\LARGEPLANTS\UNDERWATERTREE\TILINGLUMPMAT.MATERIAL.MBIN" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="20">
+							<Property name="Name" value="MESHLINK" />
+							<Property name="Value" value="_BRANCH_B1LOD0Shape" />
+						</Property>
+					</Property>
+					<Property name="Children" />
+				</Property>
+				<Property name="Children" value="TkSceneNodeData" _index="7">
+					<Property name="Name" value="_BRANCH_B5LOD0" />
+					<Property name="NameHash" value="3181800068" />
+					<Property name="Type" value="MESH" />
+					<Property name="Transform" value="TkTransformData">
+						<Property name="TransX" value="0.000000" />
+						<Property name="TransY" value="0.000000" />
+						<Property name="TransZ" value="0.000000" />
+						<Property name="RotX" value="0.000000" />
+						<Property name="RotY" value="0.000000" />
+						<Property name="RotZ" value="0.000000" />
+						<Property name="ScaleX" value="1.000000" />
+						<Property name="ScaleY" value="1.000000" />
+						<Property name="ScaleZ" value="1.000000" />
+					</Property>
+					<Property name="PlatformExclusion" value="0" />
+					<Property name="Attributes">
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="0">
+							<Property name="Name" value="BATCHSTARTPHYSI" />
+							<Property name="Value" value="15636" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="1">
+							<Property name="Name" value="VERTRSTARTPHYSI" />
+							<Property name="Value" value="4116" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="2">
+							<Property name="Name" value="VERTRENDPHYSICS" />
+							<Property name="Value" value="4993" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="3">
+							<Property name="Name" value="BATCHSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="4">
+							<Property name="Name" value="BATCHCOUNT" />
+							<Property name="Value" value="4350" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="5">
+							<Property name="Name" value="VERTRSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="6">
+							<Property name="Name" value="VERTRENDGRAPHIC" />
+							<Property name="Value" value="877" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="7">
+							<Property name="Name" value="FIRSTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="8">
+							<Property name="Name" value="LASTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="9">
+							<Property name="Name" value="LODLEVEL" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="10">
+							<Property name="Name" value="BOUNDHULLST" />
+							<Property name="Value" value="357" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="11">
+							<Property name="Name" value="BOUNDHULLED" />
+							<Property name="Value" value="405" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="12">
+							<Property name="Name" value="AABBMINX" />
+							<Property name="Value" value="-0.466618" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="13">
+							<Property name="Name" value="AABBMINY" />
+							<Property name="Value" value="0.173059" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="14">
+							<Property name="Name" value="AABBMINZ" />
+							<Property name="Value" value="-0.642959" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="15">
+							<Property name="Name" value="AABBMAXX" />
+							<Property name="Value" value="0.504643" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="16">
+							<Property name="Name" value="AABBMAXY" />
+							<Property name="Value" value="1.106340" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="17">
+							<Property name="Name" value="AABBMAXZ" />
+							<Property name="Value" value="0.503198" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="18">
+							<Property name="Name" value="HASH" />
+							<Property name="Value" value="850373619684549114" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="19">
+							<Property name="Name" value="MATERIAL" />
+							<Property name="Value" value="MODELS\PLANETS\BIOMES\UNDERWATER\LARGEPLANTS\UNDERWATERTREE\TILINGLUMPMAT.MATERIAL.MBIN" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="20">
+							<Property name="Name" value="MESHLINK" />
+							<Property name="Value" value="_BRANCH_B5LOD0Shape" />
+						</Property>
+					</Property>
+					<Property name="Children" />
+				</Property>
+				<Property name="Children" value="TkSceneNodeData" _index="8">
+					<Property name="Name" value="_BRANCH_B4LOD0" />
+					<Property name="NameHash" value="1963639739" />
+					<Property name="Type" value="MESH" />
+					<Property name="Transform" value="TkTransformData">
+						<Property name="TransX" value="0.000000" />
+						<Property name="TransY" value="0.000000" />
+						<Property name="TransZ" value="0.000000" />
+						<Property name="RotX" value="0.000000" />
+						<Property name="RotY" value="0.000000" />
+						<Property name="RotZ" value="0.000000" />
+						<Property name="ScaleX" value="1.000000" />
+						<Property name="ScaleY" value="1.000000" />
+						<Property name="ScaleZ" value="1.000000" />
+					</Property>
+					<Property name="PlatformExclusion" value="0" />
+					<Property name="Attributes">
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="0">
+							<Property name="Name" value="BATCHSTARTPHYSI" />
+							<Property name="Value" value="19986" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="1">
+							<Property name="Name" value="VERTRSTARTPHYSI" />
+							<Property name="Value" value="4994" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="2">
+							<Property name="Name" value="VERTRENDPHYSICS" />
+							<Property name="Value" value="5372" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="3">
+							<Property name="Name" value="BATCHSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="4">
+							<Property name="Name" value="BATCHCOUNT" />
+							<Property name="Value" value="1494" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="5">
+							<Property name="Name" value="VERTRSTARTGRAPH" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="6">
+							<Property name="Name" value="VERTRENDGRAPHIC" />
+							<Property name="Value" value="378" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="7">
+							<Property name="Name" value="FIRSTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="8">
+							<Property name="Name" value="LASTSKINMAT" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="9">
+							<Property name="Name" value="LODLEVEL" />
+							<Property name="Value" value="0" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="10">
+							<Property name="Name" value="BOUNDHULLST" />
+							<Property name="Value" value="405" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="11">
+							<Property name="Name" value="BOUNDHULLED" />
+							<Property name="Value" value="442" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="12">
+							<Property name="Name" value="AABBMINX" />
+							<Property name="Value" value="-0.160294" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="13">
+							<Property name="Name" value="AABBMINY" />
+							<Property name="Value" value="0.287660" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="14">
+							<Property name="Name" value="AABBMINZ" />
+							<Property name="Value" value="-0.219442" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="15">
+							<Property name="Name" value="AABBMAXX" />
+							<Property name="Value" value="0.227684" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="16">
+							<Property name="Name" value="AABBMAXY" />
+							<Property name="Value" value="1.387400" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="17">
+							<Property name="Name" value="AABBMAXZ" />
+							<Property name="Value" value="0.151453" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="18">
+							<Property name="Name" value="HASH" />
+							<Property name="Value" value="12753416482782507165" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="19">
+							<Property name="Name" value="MATERIAL" />
+							<Property name="Value" value="MODELS\PLANETS\BIOMES\UNDERWATER\LARGEPLANTS\UNDERWATERTREE\TILINGLUMPMAT.MATERIAL.MBIN" />
+						</Property>
+						<Property name="Attributes" value="TkSceneNodeAttributeData" _index="20">
+							<Property name="Name" value="MESHLINK" />
+							<Property name="Value" value="_BRANCH_B4LOD0Shape" />
+						</Property>
+					</Property>
+					<Property name="Children" />
+				</Property>
+			</Property>
+		</Property>
+	</Property>
+</Data>

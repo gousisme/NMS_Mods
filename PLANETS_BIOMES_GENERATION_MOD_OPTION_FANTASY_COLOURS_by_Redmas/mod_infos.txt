@@ -1,0 +1,13 @@
+Mod Name: Fantasy planets colors
+Mod Updated by: Redmas
+Mod Original Author: Redmas
+Mod Creation date: 2019
+Mod Demo :
+https://www.youtube.com/watch?v=t3zajLKrrdU
+
+Description :
+- replace the colours of lush and frozen planets, to be more colorful...
+
+Files used :
+METADATA\SIMULATION\SOLARSYSTEM\BIOMES\FROZEN\*palettes
+METADATA\SIMULATION\SOLARSYSTEM\BIOMES\LUSH\*palettes

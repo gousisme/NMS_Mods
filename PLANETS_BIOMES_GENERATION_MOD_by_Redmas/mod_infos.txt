@@ -1,0 +1,26 @@
+Mod Name: Fantasy Worlds
+Mod Updated by: Redmas
+Mod Original Author: Redmas
+Mod Creation date: 2019
+Mod Demo :
+https://www.youtube.com/watch?v=t3zajLKrrdU
+https://youtu.be/JVcUOvi9v0o
+
+Description :
+- Increases the diversity and enhance the looking of the planets : each planet feel more unique and interresting while exploring.
+- Multibiomes like planets. Planets can have very large desert like zones AND very large dense forests zones, on the same planet.
+- The mod changes the density of the spawns.
+- The mod reworks some base game models ( example : crystals, swamp large trees etc )
+- The mod is adding custom models and, also, is using all the base game models in other context while keeping it logic.
+
+Notes :
+- All my files are always small because i am always creating my custom objects dynamically from the mod scripts.
+- I've restarted the mod from scratch - the previous versious was too much damaged by "worlds part 2" update. recreating from zero was the most valuable way to fix and tell which part was broken.
+- I've develop this mod with a computer having 32 Gigas RAM ( the previous version of the mod was on a 16 gigas RAM ) it is possible that the mod requires 32 g since i ve not teste with lower RAM.
+- This mod is highly compatible with the vanilla saves.
+- This mod is meant to be cross updates.
+- This mod can be easily adapted to other mods changing biomes but it is thought as a mod enougth on its own.
+- If you set this mod's prority to the highest, you should be able to use other world generation mods asides.
+
+Files used :
+metadata\simulation\solarsystem\BIOMES\*

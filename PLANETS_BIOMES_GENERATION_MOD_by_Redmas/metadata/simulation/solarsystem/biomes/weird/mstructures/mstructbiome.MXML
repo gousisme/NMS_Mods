@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.57.0.1)-->
+<Data template="cGcBiomeData">
+	<Property name="TextureFile" value="METADATA/SIMULATION/SOLARSYSTEM/TEXTURES/SUBZERO.MBIN" />
+	<Property name="OverlayFile" value="METADATA/SIMULATION/SOLARSYSTEM/OVERLAYS/TEST.MBIN" />
+	<Property name="TileTypesFile" value="METADATA/SIMULATION/SOLARSYSTEM/COLOURS/BASETILETYPES.MBIN" />
+	<Property name="ColourPaletteFile" value="METADATA/SIMULATION/SOLARSYSTEM/COLOURS/BASECOLOURPALETTES.MBIN" />
+	<Property name="LegacyColourPaletteFile" value="" />
+	<Property name="MiningSubstance1" value="GcMiningSubstanceData">
+		<Property name="SubstanceCategory" value="GcRealitySubstanceCategory">
+			<Property name="SubstanceCategory" value="Fuel" />
+		</Property>
+		<Property name="UseRarity" value="true" />
+		<Property name="Rarity" value="GcRarity">
+			<Property name="Rarity" value="Common" />
+		</Property>
+	</Property>
+	<Property name="MiningSubstance2" value="GcMiningSubstanceData">
+		<Property name="SubstanceCategory" value="GcRealitySubstanceCategory">
+			<Property name="SubstanceCategory" value="Fuel" />
+		</Property>
+		<Property name="UseRarity" value="true" />
+		<Property name="Rarity" value="GcRarity">
+			<Property name="Rarity" value="Common" />
+		</Property>
+	</Property>
+	<Property name="MiningSubstance3" value="GcMiningSubstanceData">
+		<Property name="SubstanceCategory" value="GcRealitySubstanceCategory">
+			<Property name="SubstanceCategory" value="Fuel" />
+		</Property>
+		<Property name="UseRarity" value="true" />
+		<Property name="Rarity" value="GcRarity">
+			<Property name="Rarity" value="Common" />
+		</Property>
+	</Property>
+	<Property name="FuelMultiplier" value="1.000000" />
+	<Property name="Water" value="GcPlanetWaterData">
+		<Property name="ColourIndex" value="0" />
+		<Property name="WaterEmission" value="GcWaterEmissionBehaviourType">
+			<Property name="WaterEmissionBehaviourType" value="None" />
+		</Property>
+		<Property name="FoamEmission" value="GcWaterEmissionBehaviourType">
+			<Property name="WaterEmissionBehaviourType" value="None" />
+		</Property>
+		<Property name="Murkyness" value="0.000000" />
+	</Property>
+	<Property name="ExternalObjectLists">
+		<Property name="ExternalObjectLists" value="GcExternalObjectListOptions">
+			<Property name="Name" value="MAIN" />
+			<Property name="ResourceHint" value="" />
+			<Property name="ResourceHintIcon" value="" />
+			<Property name="Probability" value="1.000000" />
+			<Property name="SeasonalProbabilityOverride" value="1.000000" />
+			<Property name="TileType" value="GcTerrainTileType">
+				<Property name="TileType" value="Base" />
+			</Property>
+			<Property name="AllowLimiting" value="true" />
+			<Property name="AddToFilenameHashmapWhenOptional" value="false" />
+			<Property name="ChooseUsingLifeLevel" value="false" />
+			<Property name="Options">
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/WEIRD/MSTRUCTURES/MSTRUCTOBJECTSDEAD.MBIN" />
+			</Property>
+			<Property name="Order" value="0" />
+			<Property name="SuppressSpawn" value="false" />
+		</Property>
+		<Property name="ExternalObjectLists" value="GcExternalObjectListOptions">
+			<Property name="Name" value="BASE_VARIATION" />
+			<Property name="ResourceHint" value="" />
+			<Property name="ResourceHintIcon" value="" />
+			<Property name="Probability" value="1.000000" />
+			<Property name="SeasonalProbabilityOverride" value="1.000000" />
+			<Property name="TileType" value="GcTerrainTileType">
+				<Property name="TileType" value="Base" />
+			</Property>
+			<Property name="AllowLimiting" value="false" />
+			<Property name="AddToFilenameHashmapWhenOptional" value="false" />
+			<Property name="ChooseUsingLifeLevel" value="false" />
+			<Property name="Options">
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENCORALOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENRUINSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENROCKYWEIRDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENPEACOCKOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENROCKYOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENINFESTEDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENOCEANOBJECTSA.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENOCEANOBJECTSB.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENOCEANOBJECTSC.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENHQOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENHIVESOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENOBJECTSDEAD.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENOBJECTSLOW.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENOBJECTSMID.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BURNT/BURNTOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BURNT/BURNTOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BURNT/BURNTOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BURNT/BURNTOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/FROZENISLANDSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/FROZENBIGPROPSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/FROZENROCKYOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/FROZENOBJECTSDEAD.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/FROZENOBJECTSLOW.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/FROZENOBJECTSMID.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/FROZENOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/FROZENHQOBJECTSMID.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHBIGPROPSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHINFESTEDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHOBJECTSDEAD.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHOBJECTSLOW.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHOBJECTSMID.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHHQTENTACLEOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHHQOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHBUBBLEOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHULTRAOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHRUINSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHROOMBOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHROOMAOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHROCKYWEIRDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHROCKYOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/bis/BARREN1.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/bis/BARREN2.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/bis/toxic1.MBIN" />	
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/bis/toxic2.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/bis/lush1.MBIN" />	
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/bis/lush2.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHBIGPROPSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHINFESTEDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHOBJECTSDEAD.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHOBJECTSLOW.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHOBJECTSMID.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHHQTENTACLEOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHHQOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHBUBBLEOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHULTRAOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHRUINSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHROOMBOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHROOMAOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHROCKYWEIRDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/LUSHROCKYOBJECTS.MBIN" />		
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/BARRENBIGPROPSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/BARRENOCEANOBJECTSA.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/BARRENOCEANOBJECTSB.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/BARRENOCEANOBJECTSC.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/BARRENINFESTEDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/BARRENRUINSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/BARRENROCKYWEIRDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/BARRENPEACOCKOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/BARRENROCKYOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/BARRENHQOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/BARRENHIVESOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/BARRENCORALOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/FLORALOBJECTSGRASS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/GASGIANTS/GASGIANTSTANDARDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGELUSH/HUGELUSHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGELUSH/HUGELUSHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGELUSH/HUGELUSHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGELUSH/HUGELUSHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGERING/HUGERINGOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGERING/HUGERINGOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGERING/HUGERINGOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGERING/HUGERINGOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEROCK/HUGEROCKOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEROCK/HUGEROCKOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEROCK/HUGEROCKOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEROCK/HUGEROCKOBJECTSFULL.MBIN" />				
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGESCORCHED/HUGESCORCHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGESCORCHED/HUGESCORCHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGESCORCHED/HUGESCORCHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGESCORCHED/HUGESCORCHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGETOXIC/HUGETOXICOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGETOXIC/HUGETOXICOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGETOXIC/HUGETOXICOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGETOXIC/HUGETOXICOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEUWPLANT/HUGEUWPLANTOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEUWPLANT/HUGEUWPLANTOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEUWPLANT/HUGEUWPLANTOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEUWPLANT/HUGEUWPLANTOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/IRRADIATEDOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/IRRADIATEDOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/IRRADIATEDOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/IRRADIATEDOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/JUNGLEOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/JUNGLEOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/JUNGLEOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/JUNGLEOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/NOXIOUSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/NOXIOUSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/NOXIOUSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/NOXIOUSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/RADIOACTIVEOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/RADIOBIGPROPSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/RADIOACTIVEGLOWOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/RADIOACTIVEOBJECTSDEAD.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/RADIOACTIVEOBJECTSLOW.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/RADIOACTIVEOBJECTSMID.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/RADIOACTIVEOBJECTSFULL.MBIN" />				
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/RADIOACTIVERUINSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/RADIOACTIVEISLANDSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/RADIOSPIKECRYSTALSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/RADIOSPIKEPOTATOOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/RADIOACTIVEALIENOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/ROCKOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/SWAMPOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICINFESTEDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICEGGSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICOBJECTSDEAD.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICOBJECTSLOW.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICOBJECTSMID.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICBIGPROPSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICTENTACLESOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICEGGSMOONOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICSPORESOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICOCEANOBJECTSA.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICOCEANOBJECTSB.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICOCEANOBJECTSC.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICRUINSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/MATCH_N_BROKEN/TOXICISLANDSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHBIGPROPSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHINFESTEDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHOBJECTSDEAD.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHOBJECTSLOW.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHOBJECTSMID.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHHQTENTACLEOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHHQOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHBUBBLEOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHULTRAOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHRUINSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHROOMBOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHROOMAOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHROCKYWEIRDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/LUSH/LUSHROCKYOBJECTS.MBIN" />	
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENBIGPROPSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENOCEANOBJECTSA.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENOCEANOBJECTSB.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENOCEANOBJECTSC.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENINFESTEDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENRUINSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENROCKYWEIRDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENPEACOCKOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENROCKYOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENHQOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENHIVESOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENCORALOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/FLORAL/FLORALOBJECTSGRASS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENBIGPROPSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENOCEANOBJECTSA.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENOCEANOBJECTSB.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENOCEANOBJECTSC.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENINFESTEDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENRUINSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENROCKYWEIRDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENPEACOCKOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENROCKYOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENHQOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENHIVESOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/BARREN/BARRENCORALOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/FLORAL/FLORALOBJECTSGRASS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/GASGIANTS/GASGIANTSTANDARDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGELUSH/HUGELUSHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGELUSH/HUGELUSHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGELUSH/HUGELUSHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGELUSH/HUGELUSHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGERING/HUGERINGOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGERING/HUGERINGOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGERING/HUGERINGOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGERING/HUGERINGOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEROCK/HUGEROCKOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEROCK/HUGEROCKOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEROCK/HUGEROCKOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEROCK/HUGEROCKOBJECTSFULL.MBIN" />				
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGESCORCHED/HUGESCORCHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGESCORCHED/HUGESCORCHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGESCORCHED/HUGESCORCHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGESCORCHED/HUGESCORCHOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGETOXIC/HUGETOXICOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGETOXIC/HUGETOXICOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGETOXIC/HUGETOXICOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGETOXIC/HUGETOXICOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEUWPLANT/HUGEUWPLANTOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEUWPLANT/HUGEUWPLANTOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEUWPLANT/HUGEUWPLANTOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/HUGEPROPS/HUGEUWPLANT/HUGEUWPLANTOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/IRRADIATED/IRRADIATEDOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/IRRADIATED/IRRADIATEDOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/IRRADIATED/IRRADIATEDOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/IRRADIATED/IRRADIATEDOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/JUNGLE/JUNGLEOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/JUNGLE/JUNGLEOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/JUNGLE/JUNGLEOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/JUNGLE/JUNGLEOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/NOXIOUS/NOXIOUSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/NOXIOUS/NOXIOUSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/NOXIOUS/NOXIOUSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/NOXIOUS/NOXIOUSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/RADIOACTIVE/RADIOACTIVEOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/RADIOACTIVE/RADIOBIGPROPSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/RADIOACTIVE/RADIOACTIVEGLOWOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/RADIOACTIVE/RADIOACTIVEOBJECTSDEAD.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/RADIOACTIVE/RADIOACTIVEOBJECTSLOW.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/RADIOACTIVE/RADIOACTIVEOBJECTSMID.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/RADIOACTIVE/RADIOACTIVEOBJECTSFULL.MBIN" />				
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/RADIOACTIVE/RADIOACTIVERUINSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/RADIOACTIVE/RADIOACTIVEISLANDSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/RADIOACTIVE/RADIOSPIKECRYSTALSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/RADIOACTIVE/RADIOSPIKEPOTATOOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/RADIOACTIVE/RADIOACTIVEALIENOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/ROCKY/ROCKOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/SWAMP/SWAMPOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICINFESTEDOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICEGGSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICOBJECTSDEAD.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICOBJECTSLOW.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICOBJECTSMID.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICBIGPROPSOBJECTSFULL.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICTENTACLESOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICEGGSMOONOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICSPORESOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICOCEANOBJECTSA.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICOCEANOBJECTSB.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICOCEANOBJECTSC.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICRUINSOBJECTS.MBIN" />
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/_redmas/BIOMES/TOXIC/TOXICISLANDSOBJECTS.MBIN" />
+			</Property>
+			<Property name="Order" value="0" />
+			<Property name="SuppressSpawn" value="false" />
+		</Property>
+
+
+	<Property name="ExternalObjectLists" value="GcExternalObjectListOptions">
+			<Property name="Name" value="CRYSTALS" />
+			<Property name="ResourceHint" value="" />
+			<Property name="ResourceHintIcon" value="" />
+			<Property name="Probability" value="1.000000" />
+			<Property name="SeasonalProbabilityOverride" value="1.000000" />
+			<Property name="TileType" value="GcTerrainTileType">
+				<Property name="TileType" value="Base" />
+			</Property>
+			<Property name="AllowLimiting" value="false" />
+			<Property name="AddToFilenameHashmapWhenOptional" value="false" />
+			<Property name="ChooseUsingLifeLevel" value="false" />
+			<Property name="Options">
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/CRYSTALS/FULL.MBIN" />
+			</Property>
+			<Property name="Order" value="0" />
+			<Property name="SuppressSpawn" value="false" />
+		</Property>
+		<Property name="ExternalObjectLists" value="GcExternalObjectListOptions">
+			<Property name="Name" value="PLANTS" />
+			<Property name="ResourceHint" value="" />
+			<Property name="ResourceHintIcon" value="" />
+			<Property name="Probability" value="1.000000" />
+			<Property name="SeasonalProbabilityOverride" value="1.000000" />
+			<Property name="TileType" value="GcTerrainTileType">
+				<Property name="TileType" value="Base" />
+			</Property>
+			<Property name="AllowLimiting" value="false" />
+			<Property name="AddToFilenameHashmapWhenOptional" value="false" />
+			<Property name="ChooseUsingLifeLevel" value="false" />
+			<Property name="Options">
+				<Property name="Options" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/PLANT/DEADPLANETS.MBIN" />
+			</Property>
+			<Property name="Order" value="0" />
+			<Property name="SuppressSpawn" value="false" />
+		</Property>
+	</Property>
+	<Property name="WeatherOptions">
+		<Property name="Yellow" value="GcWeatherWeightings">
+			<Property name="WeatherWeightings">
+				<Property name="Clear" value="1.000000" />
+				<Property name="Dust" value="0.000000" />
+				<Property name="Humid" value="0.000000" />
+				<Property name="Snow" value="0.000000" />
+				<Property name="Toxic" value="0.000000" />
+				<Property name="Scorched" value="0.000000" />
+				<Property name="Radioactive" value="0.000000" />
+				<Property name="RedWeather" value="0.000000" />
+				<Property name="GreenWeather" value="0.000000" />
+				<Property name="BlueWeather" value="0.000000" />
+				<Property name="Swamp" value="0.000000" />
+				<Property name="Lava" value="0.000000" />
+				<Property name="Bubble" value="0.000000" />
+				<Property name="Weird" value="2.000000" />
+				<Property name="Fire" value="0.000000" />
+				<Property name="ClearCold" value="0.000000" />
+				<Property name="GasGiant" value="0.000000" />
+			</Property>
+		</Property>
+		<Property name="Green" value="GcWeatherWeightings">
+			<Property name="WeatherWeightings">
+				<Property name="Clear" value="1.000000" />
+				<Property name="Dust" value="0.000000" />
+				<Property name="Humid" value="0.000000" />
+				<Property name="Snow" value="0.000000" />
+				<Property name="Toxic" value="0.000000" />
+				<Property name="Scorched" value="0.000000" />
+				<Property name="Radioactive" value="0.000000" />
+				<Property name="RedWeather" value="0.000000" />
+				<Property name="GreenWeather" value="0.000000" />
+				<Property name="BlueWeather" value="0.000000" />
+				<Property name="Swamp" value="0.000000" />
+				<Property name="Lava" value="0.000000" />
+				<Property name="Bubble" value="0.000000" />
+				<Property name="Weird" value="2.000000" />
+				<Property name="Fire" value="0.000000" />
+				<Property name="ClearCold" value="0.000000" />
+				<Property name="GasGiant" value="0.000000" />
+			</Property>
+		</Property>
+		<Property name="Blue" value="GcWeatherWeightings">
+			<Property name="WeatherWeightings">
+				<Property name="Clear" value="1.000000" />
+				<Property name="Dust" value="0.000000" />
+				<Property name="Humid" value="0.000000" />
+				<Property name="Snow" value="0.000000" />
+				<Property name="Toxic" value="0.000000" />
+				<Property name="Scorched" value="0.000000" />
+				<Property name="Radioactive" value="0.000000" />
+				<Property name="RedWeather" value="0.000000" />
+				<Property name="GreenWeather" value="0.000000" />
+				<Property name="BlueWeather" value="0.000000" />
+				<Property name="Swamp" value="0.000000" />
+				<Property name="Lava" value="0.000000" />
+				<Property name="Bubble" value="0.000000" />
+				<Property name="Weird" value="2.000000" />
+				<Property name="Fire" value="0.000000" />
+				<Property name="ClearCold" value="0.000000" />
+				<Property name="GasGiant" value="0.000000" />
+			</Property>
+		</Property>
+		<Property name="Red" value="GcWeatherWeightings">
+			<Property name="WeatherWeightings">
+				<Property name="Clear" value="1.000000" />
+				<Property name="Dust" value="0.000000" />
+				<Property name="Humid" value="0.000000" />
+				<Property name="Snow" value="0.000000" />
+				<Property name="Toxic" value="0.000000" />
+				<Property name="Scorched" value="0.000000" />
+				<Property name="Radioactive" value="0.000000" />
+				<Property name="RedWeather" value="0.000000" />
+				<Property name="GreenWeather" value="0.000000" />
+				<Property name="BlueWeather" value="0.000000" />
+				<Property name="Swamp" value="0.000000" />
+				<Property name="Lava" value="0.000000" />
+				<Property name="Bubble" value="0.000000" />
+				<Property name="Weird" value="2.000000" />
+				<Property name="Fire" value="0.000000" />
+				<Property name="ClearCold" value="0.000000" />
+				<Property name="GasGiant" value="0.000000" />
+			</Property>
+		</Property>
+		<Property name="Purple" value="GcWeatherWeightings">
+			<Property name="WeatherWeightings">
+				<Property name="Clear" value="1.000000" />
+				<Property name="Dust" value="0.000000" />
+				<Property name="Humid" value="0.000000" />
+				<Property name="Snow" value="0.000000" />
+				<Property name="Toxic" value="0.000000" />
+				<Property name="Scorched" value="0.000000" />
+				<Property name="Radioactive" value="0.000000" />
+				<Property name="RedWeather" value="0.000000" />
+				<Property name="GreenWeather" value="0.000000" />
+				<Property name="BlueWeather" value="0.000000" />
+				<Property name="Swamp" value="0.000000" />
+				<Property name="Lava" value="0.000000" />
+				<Property name="Bubble" value="0.000000" />
+				<Property name="Weird" value="2.000000" />
+				<Property name="Fire" value="0.000000" />
+				<Property name="ClearCold" value="0.000000" />
+				<Property name="GasGiant" value="0.000000" />
+			</Property>
+		</Property>
+	</Property>
+	<Property name="WeatherChangeTime">
+		<Property name="X" value="0.000000" />
+		<Property name="Y" value="0.000000" />
+	</Property>
+	<Property name="DarknessVariation" value="0.200000" />
+	<Property name="CloudSettings" value="GcBiomeCloudSettings">
+		<Property name="MinCoverage" value="0.050000" />
+		<Property name="MaxCoverage" value="0.300000" />
+		<Property name="MinCoverageVariance" value="0.000000" />
+		<Property name="MaxCoverageVariance" value="0.200000" />
+		<Property name="MinCover" value="-0.600000" />
+		<Property name="MaxCover" value="0.600000" />
+		<Property name="MinVariance" value="0.000000" />
+		<Property name="MaxVariance" value="0.600000" />
+		<Property name="MinRateOfChange" value="0.050000" />
+		<Property name="MaxRateOfChange" value="1.250000" />
+		<Property name="MinRatio" value="1.000000" />
+		<Property name="MaxRatio" value="1.000000" />
+		<Property name="TendencyTowardsBeingCloudy" value="0.500000" />
+		<Property name="StormCloudTopColour">
+			<Property name="R" value="0.050000" />
+			<Property name="G" value="0.050000" />
+			<Property name="B" value="0.050000" />
+			<Property name="A" value="1.000000" />
+		</Property>
+		<Property name="StormCloudBottomColour">
+			<Property name="R" value="0.050000" />
+			<Property name="G" value="0.050000" />
+			<Property name="B" value="0.050000" />
+			<Property name="A" value="1.000000" />
+		</Property>
+	</Property>
+	<Property name="Terrain" value="GcTerrainControls">
+		<Property name="NoiseLayers">
+			<Property name="Base" value="1.000000" />
+			<Property name="Hill" value="1.000000" />
+			<Property name="Mountain" value="1.000000" />
+			<Property name="Rock" value="1.000000" />
+			<Property name="UnderWater" value="0.000000" />
+			<Property name="Texture" value="0.000000" />
+			<Property name="Elevation" value="1.000000" />
+			<Property name="Continent" value="0.000000" />
+		</Property>
+		<Property name="GridLayers">
+			<Property name="Small" value="0.750000" />
+			<Property name="Large" value="0.750000" />
+			<Property name="Resources_Heridium" value="1.000000" />
+			<Property name="Resources_Iridium" value="1.000000" />
+			<Property name="Resources_Copper" value="1.000000" />
+			<Property name="Resources_Nickel" value="0.000000" />
+			<Property name="Resources_Aluminium" value="0.000000" />
+			<Property name="Resources_Gold" value="0.000000" />
+			<Property name="Resources_Emeril" value="0.000000" />
+		</Property>
+		<Property name="Features">
+			<Property name="River" value="1.000000" />
+			<Property name="Crater" value="1.000000" />
+			<Property name="Arches" value="1.000000" />
+			<Property name="ArchesSmall" value="1.000000" />
+			<Property name="Blobs" value="1.000000" />
+			<Property name="BlobsSmall" value="1.000000" />
+			<Property name="Substance" value="0.000000" />
+		</Property>
+		<Property name="Caves">
+			<Property name="Underground" value="1.000000" />
+		</Property>
+		<Property name="WaterActiveFrequency" value="0.300000" />
+		<Property name="HighWaterActiveFrequency" value="0.000000" />
+		<Property name="RockTileFrequency" value="0.250000" />
+		<Property name="SubstanceTileFrequency" value="0.250000" />
+		<Property name="ForceContinentalNoise" value="false" />
+	</Property>
+	<Property name="FilterOptions">
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="Default" />
+			</Property>
+			<Property name="Weight" value="1.000000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="HueShiftA" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="HueShiftB" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="HueShiftC" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="HueShiftD" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="Weird1" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="Weird2" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="Weird3" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="Weird4" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="Weird5" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="Weird6" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="Weird7" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="Weird8" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="NMSRetroA" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="NMSRetroB" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="NMSRetroC" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="NMSRetroD" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="NMSRetroE" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="NMSRetroF" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="NMSRetroG" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="SepiaExtreme" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="Solarise" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="TwoTone" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="ColourTouchB" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="ColourTouchC" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+		<Property name="FilterOptions" value="GcScreenFilterOption">
+			<Property name="Filter" value="GcScreenFilters">
+				<Property name="ScreenFilter" value="WarmStripe" />
+			</Property>
+			<Property name="Weight" value="0.010000" />
+		</Property>
+	</Property>
+	<Property name="FloraLifeLocID" value="RARITY_WEIRD" />
+</Data>

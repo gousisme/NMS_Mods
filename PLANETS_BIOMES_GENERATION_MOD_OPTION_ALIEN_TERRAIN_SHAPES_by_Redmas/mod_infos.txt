@@ -1,0 +1,13 @@
+Mod Name: Alien terrain shapes
+Mod Updated by: Redmas
+Mod Original Author: Redmas
+Mod Creation date: 2021
+Mod Demo :
+https://youtu.be/zKYGZZBlm8o?si=IU51wPs9SK_fYDcm
+https://youtu.be/JVcUOvi9v0o
+
+Description :
+- change the voxels of the terrains, to feel more alieny. The mod is still highly compatible with the base game terrain, but not fully ( you can still remove the terrain with the multitool if needed )
+
+Files used :
+metadata\simulation\solarsystem\voxelgeneratorsettings

@@ -1,0 +1,13 @@
+Mod Name: Knowledge stones model replacement
+Mod Updated by: Redmas
+Mod Original Author: Redmas
+Mod Creation date: 2017
+Mod Demo :
+https://youtu.be/7f_W7afpoZ0?si=z5rY2SM6vvpPJcfC&t=103
+
+Description :
+- replace the knowledges stones with unused assts, re-activated, and with a more varied position and shapes at spawn
+
+Files used :
+METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\LEVELONEOBJECTS\*
+METADATA\SIMULATION\SOLARSYSTEM\BIOMES\OBJECTS\LEVELONEOBJECTS\*

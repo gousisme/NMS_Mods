@@ -1,0 +1,12 @@
+Mod Name: NO VISUAL OVERLOAD CAUSED BY WEATHER
+Mod Updated by: Redmas
+Mod Original Author: Redmas
+Mod Creation date: 05 2021
+Mod Demo :
+https://youtu.be/zKYGZZBlm8o
+
+Description :
+- reduced the visual effects caused by weather and storms
+
+Files used :
+METADATA\SIMULATION\SOLARSYSTEM\WEATHER\*

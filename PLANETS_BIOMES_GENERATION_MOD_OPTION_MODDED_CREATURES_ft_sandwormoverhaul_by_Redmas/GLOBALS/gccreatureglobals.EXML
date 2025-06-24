@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcCreatureGlobals">	
+	<Property name="IsHurtingCreaturesACrime" value="false" />
+	<Property name="EnableFlyingSnakeTails" value="true" />
+	<Property name="MaxCreatureSize" value="90.000000" />
+	<Property name="SandWormChangeDirectionTime" value="0.001000" />
+	<Property name="SandWormSteerAdjustTime" value="0.200000" />
+	<Property name="SandWormMaxSteer" value="10.000000" />
+	<Property name="SandWormMaxHeightAdjust" value="380.000000" />
+	<Property name="SandWormJumpHeight" value="3.000000" />
+	<Property name="SandWormJumpTime" value="0.000100" />
+	<Property name="SandWormSubmergeDepth" value="1.000000" />
+	<Property name="SandWormSubmergeTime" value="1.000000" />
+	<Property name="SandWormSurfaceTime" value="3.000000" />
+	<Property name="SandWormMaxJumps" value="1500" />
+	<Property name="SandWormDespawnDist" value="1500.000000" />
+	<Property name="SandWormSpawnTimer" value="130.000000" />
+	<Property name="SandWormSpawnChanceMin" value="0.010000" />
+	<Property name="SandWormSpawnChanceMax" value="0.200000" />
+	<Property name="SandWormSpawnChanceInfested" value="1.000000" />
+	<Property name="AllowSleeping" value="True"/>
+	<Property name="FlyingSnakeData" value="GcFlyingSnakeData">
+		<Property name="CircleSpeed" value="8.000000" />
+		<Property name="ApproachBaitSpeed" value="3.000000" />
+		<Property name="DefaultCircleDistance" value="100.000000" />
+		<Property name="BarrelRollSpawnDelay" value="1.500000" />
+		<Property name="BarrelRollCount" value="1.000000" />
+		<Property name="BarrelRollSpeed" value="4.000000" />
+		<Property name="RiseDelay" value="8.000000" />
+		<Property name="RiseHeight" value="0.000000" />
+		<Property name="RiseTime" value="2.000000" />
+		<Property name="AirThickness" value="16.000000" />
+		<Property name="WindForce" value="150.000000" />
+		<Property name="TailStiffness" value="1.000000" />
+		<Property name="TwistLimit" value="5.000000" />
+		<Property name="AltitudeSinPeriod" value="6.000000" />
+		<Property name="AltitudeSinAmp" value="3.000000" />
+		<Property name="AscendDescendSpeed" value="4.000000" />
+	</Property>	
+	<Property name="FiendHealth" value="10" />
+	<Property name="FiendMaxEngaged" value="30" />
+	<Property name="FiendMaxAttackers" value="20" />	
+	<Property name="MaxFiendsToSpawn" value="30" />
+</Data>

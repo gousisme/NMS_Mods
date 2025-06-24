@@ -1,0 +1,28 @@
+Mod Name: Fantastic beasts ( Modded creatures )
+Mod Updated by: Redmas
+Mod Original Author: Redmas
+Mod Creation date: 2017
+Mod Demo :
+https://youtu.be/qE3vu7tMGIA?si=3Ek5PMoUJxBX_ggn
+https://www.youtube.com/watch?v=V-a9Z-ONyiU
+https://youtu.be/EJWuqpCtJLw?si=EoO59FwzgK5z11OV&t=347
+
+Description :
+Change the creatures in several ways
+-> giants are possible ( with slowed animation for improving the gigantism feeling )
+-> improved birds and flying snakes behaviours ( flight slower and get closer to the player )
+-> various behaviours changes
+-> various spawn changes
+-> additional modded creatures on planets
+-> density reworked
+-> more diverse fauna on each planets
+-> sandworms are reworked they slide on planet surfaces and are more overhaul more frightening
+-> Fiends combat rework ( more dynamic : the fiend span and attack simunatously more numerous, but are one shotable - fedback says it is fun )
+-> wild creatures can be found sleeping ( credits to kyrox ;) )
+
+Files used :
+MODELS\PLANETS\CREATURES\*
+METADATA\SIMULATION\ECOSYSTEM\*
+gccreatureglobals
+
+
