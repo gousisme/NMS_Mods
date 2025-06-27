@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.61.0.1)-->
+<Data template="cGcTechnologyTable">
+	<Property name="Table">
+		<Property name="Table" value="GcTechnology" _id="PROTECT">
+			<Property name="ID" value="PROTECT" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="POWERCELL" _index="0" />
+				<Property name="ChargeBy" value="CATALYST2" _index="1" />
+				<Property name="ChargeBy" value="CATALYST1" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="ENERGY">
+			<Property name="ID" value="ENERGY" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="PRODFUEL2" _index="0" />
+				<Property name="ChargeBy" value="OXYGEN" _index="1" />
+				<Property name="ChargeBy" value="COLD1" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="SHIPSHIELD">
+			<Property name="ID" value="SHIPSHIELD" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="SHIPCHARGE" _index="0" />
+				<Property name="ChargeBy" value="CATALYST2" _index="1" />
+				<Property name="ChargeBy" value="CATALYST1" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="SHIPJUMP_ALIEN">
+			<Property name="ID" value="SHIPJUMP_ALIEN" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="SPACEGUNK5" _index="0" />
+				<Property name="ChargeBy" value="ASTEROID1" _index="1" />
+				<Property name="ChargeBy" value="FUEL1" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="LAUNCHER_ALIEN">
+			<Property name="ID" value="LAUNCHER_ALIEN" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="CREATURE1" _index="0" />
+				<Property name="ChargeBy" value="FUEL2" _index="1" />
+				<Property name="ChargeBy" value="OXYGEN" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="WARP_ALIEN">
+			<Property name="ID" value="WARP_ALIEN" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="SPACEGUNK4" _index="0" />
+				<Property name="ChargeBy" value="FOOD_R_MEAT" _index="1" />
+				<Property name="ChargeBy" value="STELLAR2" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="LAUNCHER_ROBO">
+			<Property name="ID" value="LAUNCHER_ROBO" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="ROBOT1" _index="0" />
+				<Property name="ChargeBy" value="DRONE_SHARD" _index="1" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="SHIPSHIELD_ROBO">
+			<Property name="ID" value="SHIPSHIELD_ROBO" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="DRONE_SHARD" _index="0" />
+				<Property name="ChargeBy" value="CATALYST2" _index="1" />
+				<Property name="ChargeBy" value="CATALYST1" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="TERRAINEDITOR">
+			<Property name="ID" value="TERRAINEDITOR" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Metal" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="SAND1" _index="0" />
+				<Property name="ChargeBy" value="LAND3" _index="1" />
+				<Property name="ChargeBy" value="LAND2" _index="2" />
+				<Property name="ChargeBy" value="LAND1" _index="3" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="LASER">
+			<Property name="ID" value="LASER" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="HOT1" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="SENT_LASER">
+			<Property name="ID" value="SENT_LASER" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="HOT1" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="ATLAS_LASER">
+			<Property name="ID" value="ATLAS_LASER" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="HOT1" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="RAILGUN">
+			<Property name="ID" value="RAILGUN" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="CANNON">
+			<Property name="ID" value="CANNON" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="SOUL_LASER">
+			<Property name="ID" value="SOUL_LASER" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="LAUNCHSUB2" _index="0" />
+				<Property name="ChargeBy" value="LAUNCHSUB" _index="1" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="SENT_LASER">
+			<Property name="ID" value="SENT_LASER" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="HOT1" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="ATLAS_LASER">
+			<Property name="ID" value="ATLAS_LASER" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="HOT1" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="T_UNW">
+			<Property name="ID" value="T_UNW" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="PRODFUEL2" _index="0" />
+				<Property name="ChargeBy" value="OXYGEN" _index="1" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="T_RAD">
+			<Property name="ID" value="T_RAD" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="POWERCELL" _index="0" />
+				<Property name="ChargeBy" value="RADIO1" _index="1" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="T_TOX">
+			<Property name="ID" value="T_TOX" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="POWERCELL" _index="0" />
+				<Property name="ChargeBy" value="TOXIC1" _index="1" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="T_COLDPROT">
+			<Property name="ID" value="T_COLDPROT" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="POWERCELL" _index="0" />
+				<Property name="ChargeBy" value="COLD1" _index="1" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="T_HOTPROT">
+			<Property name="ID" value="T_HOTPROT" />
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="POWERCELL" _index="0" />
+				<Property name="ChargeBy" value="HOT1" _index="1" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="VEHICLE_ENGINE">
+			<Property name="ID" value="VEHICLE_ENGINE" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Fuel" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="OXYGEN" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="VEHICLE_LASER">
+			<Property name="ID" value="VEHICLE_LASER" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Fuel" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="OXYGEN" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="VEHICLE_GUN">
+			<Property name="ID" value="VEHICLE_GUN" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Fuel" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="OXYGEN" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="VEHICLE_FLAME">
+			<Property name="ID" value="VEHICLE_FLAME" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Fuel" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="OXYGEN" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="SUB_GUN">
+			<Property name="ID" value="SUB_GUN" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Fuel" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="OXYGEN" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="SUB_LASER">
+			<Property name="ID" value="SUB_LASER" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Fuel" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="OXYGEN" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="SUB_MINER">
+			<Property name="ID" value="SUB_MINER" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Fuel" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="SAND1" _index="0" />
+				<Property name="ChargeBy" value="FUEL2" _index="1" />
+				<Property name="ChargeBy" value="FUEL1" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="MECH_ENGINE">
+			<Property name="ID" value="MECH_ENGINE" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Fuel" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="OXYGEN" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="MECH_LASER">
+			<Property name="ID" value="MECH_LASER" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Fuel" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="OXYGEN" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="MECH_GUN">
+			<Property name="ID" value="MECH_GUN" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Fuel" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="OXYGEN" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="MECH_MINER">
+			<Property name="ID" value="MECH_MINER" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Fuel" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="SAND1" _index="0" />
+				<Property name="ChargeBy" value="FUEL2" _index="1" />
+				<Property name="ChargeBy" value="FUEL1" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="MECH_SENT_R_ARM">
+			<Property name="ID" value="MECH_SENT_R_ARM" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Fuel" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="OXYGEN" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="MECH_ARMY_L_ARM">
+			<Property name="ID" value="MECH_ARMY_L_ARM" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Fuel" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="OXYGEN" _index="2" />
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="MECH_ARMY_R_ARM">
+			<Property name="ID" value="MECH_ARMY_R_ARM" />
+			<Property name="Level" value="1" />
+			<Property name="Chargeable" value="true" />
+			<Property name="ChargeAmount" value="600" />
+			<Property name="ChargeType" value="GcRealitySubstanceCategory">
+				<Property name="SubstanceCategory" value="Fuel" />
+			</Property>
+			<Property name="ChargeBy">
+				<Property name="ChargeBy" value="FUEL2" _index="0" />
+				<Property name="ChargeBy" value="FUEL1" _index="1" />
+				<Property name="ChargeBy" value="OXYGEN" _index="2" />
+			</Property>
+		</Property>
+	</Property>
+</Data>
