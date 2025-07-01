@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.72.0.1)-->
+<!--EXML Created by AMUMSS v.5.4.4.5w-->
+<Data template="cTkAttachmentData">
+  <Property name="AdditionalData">
+  </Property>
+  <Property name="Components">
+    <Property name="Components" value="GcInteractionComponentData"> # ADDED
+      <Property name="GcInteractionComponentData"> # ADDED
+        <Property name="InteractionAction" value="PressButton" /> # ADDED
+        <Property name="InteractionType" value="GcInteractionType"> # ADDED
+          <Property name="InteractionType" value="Pet" /> # ADDED
+        </Property> # ADDED
+        <Property name="UseIntermediateUI" value="false" /> # ADDED
+        <Property name="Renderer" value="TkModelRendererData"> # ADDED
+          <Property name="Camera" value="TkModelRendererCameraData"> # ADDED
+            <Property name="Distance" value="1.800000" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.450000" /> # ADDED
+              <Property name="Y" value="0.650000" /> # ADDED
+              <Property name="Z" value="3.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="Roll" value="0.000000" /> # ADDED
+            <Property name="Pitch" value="10.000000" /> # ADDED
+            <Property name="Rotate" value="180.000000" /> # ADDED
+            <Property name="LightPitch" value="45.000000" /> # ADDED
+            <Property name="LightRotate" value="45.000000" /> # ADDED
+            <Property name="Wander" value="TkCameraWanderData"> # ADDED
+              <Property name="CamWander" value="false" /> # ADDED
+              <Property name="CamWanderPhase" value="0.003000" /> # ADDED
+              <Property name="CamWanderAmplitude" value="0.500000" /> # ADDED
+            </Property> # ADDED
+          </Property> # ADDED
+          <Property name="Fov" value="30.000000" /> # ADDED
+          <Property name="AspectRatio" value="1.777700" /> # ADDED
+          <Property name="LightIntensityMultiplier" value="1.000000" /> # ADDED
+          <Property name="ThumbnailMode" value="None" /> # ADDED
+          <Property name="FocusType" value="ResourceBounds" /> # ADDED
+          <Property name="FocusLocator" value="" /> # ADDED
+          <Property name="FocusOffset"> # ADDED
+            <Property name="X" value="0.000000" /> # ADDED
+            <Property name="Y" value="0.000000" /> # ADDED
+            <Property name="Z" value="0.000000" /> # ADDED
+          </Property> # ADDED
+          <Property name="FocusInterpTime" value="0.000000" /> # ADDED
+          <Property name="BlendInTime" value="0.800000" /> # ADDED
+          <Property name="BlendInOffset" value="0.000000" /> # ADDED
+          <Property name="Anim" value="" /> # ADDED
+          <Property name="HeightOffset" value="0.005000" /> # ADDED
+          <Property name="UsePlayerCameraInHmd" value="true" /> # ADDED
+          <Property name="AlignUIToCameraInHmd" value="false" /> # ADDED
+          <Property name="UseSensibleCameraFocusNodeIsNowOffsetNode" value="false" /> # ADDED
+          <Property name="LookForFocusInMasterModel" value="false" /> # ADDED
+          <Property name="FlipRotationIfNecessary" value="false" /> # ADDED
+        </Property> # ADDED
+        <Property name="RendererAlt" value="TkModelRendererData"> # ADDED
+          <Property name="Camera" value="TkModelRendererCameraData"> # ADDED
+            <Property name="Distance" value="1.500000" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="Roll" value="0.000000" /> # ADDED
+            <Property name="Pitch" value="0.000000" /> # ADDED
+            <Property name="Rotate" value="180.000000" /> # ADDED
+            <Property name="LightPitch" value="45.000000" /> # ADDED
+            <Property name="LightRotate" value="45.000000" /> # ADDED
+            <Property name="Wander" value="TkCameraWanderData"> # ADDED
+              <Property name="CamWander" value="false" /> # ADDED
+              <Property name="CamWanderPhase" value="0.003000" /> # ADDED
+              <Property name="CamWanderAmplitude" value="0.500000" /> # ADDED
+            </Property> # ADDED
+          </Property> # ADDED
+          <Property name="Fov" value="30.000000" /> # ADDED
+          <Property name="AspectRatio" value="1.777700" /> # ADDED
+          <Property name="LightIntensityMultiplier" value="1.000000" /> # ADDED
+          <Property name="ThumbnailMode" value="None" /> # ADDED
+          <Property name="FocusType" value="ResourceBounds" /> # ADDED
+          <Property name="FocusLocator" value="" /> # ADDED
+          <Property name="FocusOffset"> # ADDED
+            <Property name="X" value="0.000000" /> # ADDED
+            <Property name="Y" value="0.000000" /> # ADDED
+            <Property name="Z" value="0.000000" /> # ADDED
+          </Property> # ADDED
+          <Property name="FocusInterpTime" value="0.000000" /> # ADDED
+          <Property name="BlendInTime" value="0.800000" /> # ADDED
+          <Property name="BlendInOffset" value="0.000000" /> # ADDED
+          <Property name="Anim" value="" /> # ADDED
+          <Property name="HeightOffset" value="0.005000" /> # ADDED
+          <Property name="UsePlayerCameraInHmd" value="false" /> # ADDED
+          <Property name="AlignUIToCameraInHmd" value="false" /> # ADDED
+          <Property name="UseSensibleCameraFocusNodeIsNowOffsetNode" value="false" /> # ADDED
+          <Property name="LookForFocusInMasterModel" value="false" /> # ADDED
+          <Property name="FlipRotationIfNecessary" value="false" /> # ADDED
+        </Property> # ADDED
+        <Property name="Race" value="GcAlienRace"> # ADDED
+          <Property name="AlienRace" value="None" /> # ADDED
+        </Property> # ADDED
+        <Property name="AttractDistanceSq" value="100.000000" /> # ADDED
+        <Property name="SecondaryMeshAlwaysVisible" value="false" /> # ADDED
+        <Property name="RepeatInteraction" value="false" /> # ADDED
+        <Property name="UseInteractCamera" value="false" /> # ADDED
+        <Property name="BlendToCameraTime" value="1.500000" /> # ADDED
+        <Property name="BlendFromCameraTime" value="-1.000000" /> # ADDED
+        <Property name="ActivationCost" value="GcInteractionActivationCost"> # ADDED
+          <Property name="SubstanceId" value="" /> # ADDED
+          <Property name="AltIds"> # ADDED
+          </Property> # ADDED
+          <Property name="Cost" value="0" /> # ADDED
+          <Property name="Repeat" value="false" /> # ADDED
+          <Property name="RequiredTech" value="" /> # ADDED
+          <Property name="UseCostID" value="" /> # ADDED
+          <Property name="StartMissionOnCantAfford" value="" /> # ADDED
+          <Property name="OnlyChargeDuringSeasons"> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+        <Property name="TriggerAction" value="INACTIVE" /> # ADDED
+        <Property name="TriggerActionOnPrepare" value="" /> # ADDED
+        <Property name="BroadcastTriggerAction" value="false" /> # ADDED
+        <Property name="InteractAngle" value="360.000000" /> # ADDED
+        <Property name="InteractDistance" value="100.000000" /> # ADDED
+        <Property name="InteractInvertFace" value="true" /> # ADDED
+        <Property name="SecondaryInteractionType" value="GcInteractionType"> # ADDED
+          <Property name="InteractionType" value="Creature" /> # ADDED
+        </Property> # ADDED
+        <Property name="SecondaryActivationCost" value="GcInteractionActivationCost"> # ADDED
+          <Property name="SubstanceId" value="BAIT_BASIC" /> # ADDED
+          <Property name="AltIds"> # ADDED
+          </Property> # ADDED
+          <Property name="Cost" value="1" /> # ADDED
+          <Property name="Repeat" value="true" /> # ADDED
+          <Property name="RequiredTech" value="" /> # ADDED
+          <Property name="UseCostID" value="" /> # ADDED
+          <Property name="StartMissionOnCantAfford" value="" /> # ADDED
+          <Property name="OnlyChargeDuringSeasons"> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+        <Property name="EventRenderers"> # ADDED
+        </Property> # ADDED
+        <Property name="EventRenderersAlt"> # ADDED
+        </Property> # ADDED
+        <Property name="EventRenderersDoF"> # ADDED
+        </Property> # ADDED
+        <Property name="SecondaryCameraTransitionTime" value="1.000000" /> # ADDED
+        <Property name="DepthOfField" value="GcInteractionDof"> # ADDED
+          <Property name="IsEnabled" value="true" /> # ADDED
+          <Property name="UseGlobals" value="true" /> # ADDED
+          <Property name="NearPlaneMin" value="2.000000" /> # ADDED
+          <Property name="NearPlaneAdjust" value="1.000000" /> # ADDED
+          <Property name="FarPlane" value="3.000000" /> # ADDED
+          <Property name="FarFadeDistance" value="2.000000" /> # ADDED
+        </Property> # ADDED
+        <Property name="PuzzleMissionOverrideTable"> # ADDED
+        </Property> # ADDED
+        <Property name="AdditionalOptionsOverrideTable"> # ADDED
+        </Property> # ADDED
+        <Property name="StoryUtilityOverrideData" value="GcStoryUtilityOverride"> # ADDED
+          <Property name="Name" value="" /> # ADDED
+          <Property name="Reward" value="" /> # ADDED
+          <Property name="SpecificRewardOverrideTable"> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+        <Property name="OverrideInteriorExteriorMarker" value="No" /> # ADDED
+        <Property name="ReseedAfterRewardSuccess" value="false" /> # ADDED
+        <Property name="UsePersonalPersistentBuffer" value="false" /> # ADDED
+        <Property name="InWorldUIScaler" value="0.000000" /> # ADDED
+        <Property name="InWorldUIMinDistOverride" value="0.000000" /> # ADDED
+        <Property name="InWorldUIMinDistOverrideV2" value="0.000000" /> # ADDED
+        <Property name="InWorldUIForcedOffset" value="0.000000" /> # ADDED
+        <Property name="InWorldUIForcedOffsetV2" value="0.000000" /> # ADDED
+        <Property name="InWorldUIUseCameraUp" value="false" /> # ADDED
+        <Property name="StartMissionOnUse" value="" /> # ADDED
+        <Property name="AllowMissionUnderwater" value="true" /> # ADDED
+        <Property name="OnlyAvailableInAbandonedMode" value="false" /> # ADDED
+        <Property name="UseUnlockedInteractionIfMaintDone" value="false" /> # ADDED
+      </Property> # ADDED
+    </Property> # ADDED
+    <Property name="Components" _index="6">
+    </Property>
+  </Property>
+</Data>

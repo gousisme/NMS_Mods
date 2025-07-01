@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.72.0.1)-->
+<!--EXML Created by AMUMSS v.5.4.4.5w-->
+<Data template="cGcCreatureGlobals">
+  <Property name="CreatureInteractionRangeBoostHuge" value="3.000000" /> # CHANGED
+  <Property name="CreatureInteractionRangeBoostLarge" value="2.400000" /> # CHANGED
+  <Property name="CreatureInteractionRangeBoostMedium" value="2.200000" /> # CHANGED
+  <Property name="CreatureInteractionRangeBoostSmall" value="2.000000" /> # CHANGED
+  <Property name="CreatureInteractionRangeBoostRun" value="4.000000" /> # CHANGED
+  <Property name="CreatureInteractionRangeBoostSprint" value="7.000000" /> # CHANGED
+  <Property name="CreatureInteractionRangeReducePredator" value="0.600000" /> # CHANGED
+  <Property name="CreatureInteractBaseRange" value="750.000000" /> # CHANGED
+  <Property name="PetInteractBaseRange" value="1200.000000" /> # CHANGED
+  <Property name="MinRideSize" value="0.100000" /> # CHANGED
+  <Property name="AggressiveSharks" value="false" /> # CHANGED
+  <Property name="AllowSleeping" value="true" /> # CHANGED
+  <Property name="PiedPiper" value="false" /> # CHANGED
+  <Property name="PetGrowthTime" value="0" /> # CHANGED
+  <Property name="PetIncubationTime" value="0" /> # CHANGED
+  <Property name="PetTrustChangeInterval" value="0" /> # CHANGED
+  <Property name="PetTrustOnAdoption" value="1.000000" /> # CHANGED
+  <Property name="PetTrustOnHatch" value="1.000000" /> # CHANGED
+  <Property name="PetMinTrust" value="1.000000" /> # CHANGED
+  <Property name="PetEggLayingDuration" value="0.000000" /> # CHANGED
+  <Property name="PetEggLayingInterval" value="0" /> # CHANGED
+  <Property name="PetEggFirstEggDelay" value="0" /> # CHANGED
+  <Property name="PetEggModificationTime" value="1" /> # CHANGED
+  <Property name="CanAlwaysLayEgg" value="true" /> # CHANGED
+</Data>

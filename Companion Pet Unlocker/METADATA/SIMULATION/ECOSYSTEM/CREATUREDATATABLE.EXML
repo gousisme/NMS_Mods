@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.72.0.1)-->
+<!--EXML Created by AMUMSS v.5.4.4.5w-->
+<Data template="cGcCreatureDataTable">
+  <Property name="Table">
+    <Property name="Table" value="GcCreatureData" _id="FISH">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="joint1" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="FISHFLOCK">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="SWIMCOW">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="SWIMRODENT">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="GlobalJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="JELLYFISH">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="centre" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="SEASNAKE">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="SHARK">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="Root" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="BIRD">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="Root" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="BUTTERFLY">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="Root" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="SMALLBIRD">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="Root" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="BUTTERFLOCK">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="MOLE">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="DiggerROOT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="PROTOROLLER">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="PROTODIGGER">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="EyeStalkROOT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="PLOUGH">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="DRILL">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="DiggerROOT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="WEIRDROLL">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="WEIRDFLOAT">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="WEIRDCRYSTAL">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="WEIRDBUTTERFLY">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="shellfly_ROOTSHJnt" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="SCUTTLER">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="SLUG">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="MINIFIEND">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="FIENDFISHSMALL">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="joint1" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="FLOATER">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="FrontJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="MINIDRONE">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="FIENDFISHBIG">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="joint1" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="ROCKCREATURE">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="SANDWORM">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="RootJNT" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+  </Property>
+</Data>

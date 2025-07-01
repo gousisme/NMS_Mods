@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.72.0.1)-->
+<!--EXML Created by AMUMSS v.5.4.4.5w-->
+<Data template="cGcCreatureDataTable">
+  <Property name="Table">
+    <Property name="Table" value="GcCreatureData" _id="WALKER">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData"> # ADDED
+          <Property name="GcCreatureRidingData"> # ADDED
+            <Property name="JointName" value="Root" /> # CHANGED
+            <Property name="AdditionalScaleJoint" value="" /> # ADDED
+            <Property name="Offset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.250000" /> # ADDED
+              <Property name="Z" value="-0.125000" /> # ADDED
+            </Property> # ADDED
+            <Property name="RotationOffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="VROffset"> # ADDED
+              <Property name="X" value="0.000000" /> # ADDED
+              <Property name="Y" value="0.000000" /> # ADDED
+              <Property name="Z" value="0.000000" /> # ADDED
+            </Property> # ADDED
+            <Property name="HeadCounterRotation" value="0.000000" /> # ADDED
+            <Property name="UprightStrength" value="1.000000" /> # ADDED
+            <Property name="LegSpread" value="true" /> # ADDED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # ADDED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # ADDED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # ADDED
+            <Property name="RequiresMatchingPartModifier" value="false" /> # ADDED
+            <Property name="PartModifiers" /> # ADDED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # ADDED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # ADDED
+            <Property name="RidingAnims" /> # ADDED
+          </Property> # ADDED
+        </Property> # ADDED
+      </Property>
+    </Property>
+    <Property name="Table" value="GcCreatureData" _id="QUAD">
+      <Property name="Data">
+        <Property name="Data" value="GcCreatureRidingData" _index="3">
+          <Property name="GcCreatureRidingData">
+            <Property name="LegSpread" value="true" /> # CHANGED
+            <Property name="ScaleForNeutralLegSpread" value="1.250000" /> # CHANGED
+            <Property name="ScaleForMinLegSpread" value="0.500000" /> # CHANGED
+            <Property name="ScaleForMaxLegSpread" value="4.750000" /> # CHANGED
+            <Property name="IdleRidingAnim" value="RIDE_ANT_IDLE" /> # CHANGED
+            <Property name="DefaultRidingAnim" value="RIDE_ANT_WALK" /> # CHANGED
+          </Property>
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+</Data>
