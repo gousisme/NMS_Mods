@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (6.01.0.2)-->
+<!--EXML Created by AMUMSS v.5.4.5.0w-->
+<Data template="cTkAttachmentData">
+  <Property name="Components">
+    <Property name="Components" value="GcSimpleInteractionComponentData" _index="1">
+      <Property name="GcSimpleInteractionComponentData">
+        <Property name="InteractDistance" value="25.000000" /> # CHANGED
+      </Property>
+    </Property>
+  </Property>
+</Data>
